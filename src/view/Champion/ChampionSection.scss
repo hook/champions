@@ -45,6 +45,10 @@
         &.champion-section-text-description {
             white-space: pre-line;
         }
+        
+        & > b {
+            margin-right: 0.5em;
+        }
     }
 
     .champion-section-youtube {
