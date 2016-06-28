@@ -158,7 +158,7 @@ const ChampionTeam = {
                         );
                     }) }
                     <div class="team-pi">
-                        { lang.get('pi') }
+                        { `${ lang.get('pi') } ` }
                         <span class="team-pi-number">
                             { champions.reduce((amount, champion) => amount + (champion.attr.pi || champion.pi), 0) }
                         </span>
