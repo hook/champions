@@ -48,7 +48,7 @@ const Checkbox = {
                     requestRedraw(10);
                 }}
             >
-                <Icon icon={ (object[ field ])? 'check-square': 'square' } />
+                <Icon icon={ (object[ field ])? 'check-square': 'square' } before />
                 { lang.get((object[ field ])? 'enabled': 'disabled') }
             </div>
         );
@@ -97,7 +97,7 @@ const TeamsSettingsPage = {
                     <Field
                         title={ lang.get('arena-sandbagging') }
                         icon={(
-                            <Icon icon="users" />
+                            <Icon icon="users" before />
                         )}
                         description={ lang.get('arena-sandbagging-description') }
                         input={(
@@ -107,7 +107,7 @@ const TeamsSettingsPage = {
                     <Field
                         title={ lang.get('base-weight') }
                         icon={(
-                            <Icon icon="database" />
+                            <Icon icon="database" before />
                         )}
                         description={ lang.get('base-weight-description') }
                         input={
@@ -133,6 +133,7 @@ const TeamsSettingsPage = {
                                     src={ effectImage(attr.uid, 'black') }
                                     alt={ effectImage(attr.uid, 'white') }
                                     icon={ 'square '}
+                                    before
                                 />
                             )}
                             input={
