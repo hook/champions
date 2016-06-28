@@ -44,6 +44,7 @@ const SynergyPage = {
                                 src={ effectImage(effectId, 'white') }
                                 alt={ effectImage(effectId, 'black') }
                                 icon="square"
+                                before
                             />
                             <span class="legend-effect-title">
                                 { lang.get(`effect-${ effectId }-shortname`, null) || lang.get(`effect-${ effectId }-name`) }
@@ -56,7 +57,7 @@ const SynergyPage = {
                             class={ classNames('no-select', 'legend-effect', 'legend-effect--none') }
                             title={ lang.get('effects-none') }
                         >
-                            <Icon icon="times-circle"/>
+                            <Icon icon="times-circle" before/>
                             <span class="legend-effect-title">
                                 <i>{ lang.get('effects-none') }</i>
                             </span>
