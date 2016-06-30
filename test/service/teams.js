@@ -54,5 +54,4 @@ describe('service/teams', () => {
 
         expect(JSON.stringify(result.teams[ 0 ])).to.equal('["antman-2","ultron-2","yellowjacket-2"]');
     }));
-
 });
