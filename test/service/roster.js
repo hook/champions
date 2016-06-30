@@ -24,7 +24,6 @@ describe('service/roster', () => {
 
         const json = JSON.parse(JSON.stringify(roster.all()));
         expect(json).to.deep.equal([
-            { 'this should make it fail': true },
             { 'uid':'blackbolt', 'stars':2, 'typeId':'cosmic', 'pi':0, 'rank':1, 'level':1, 'awakened':0, role: null },
             { 'uid':'drax', 'stars':2, 'typeId':'cosmic', 'pi':500, 'rank':3, 'level':30, 'awakened':16, role: null },
         ]);
