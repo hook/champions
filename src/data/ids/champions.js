@@ -16,20 +16,7 @@ export const THANOS = 'thanos';
 export const THOR = 'thor';
 export const VENOM = 'venom';
 export const VENOMPOOL = 'venompool';
-// Tech
-export const CIVILWARRIOR = 'civilwarrior';
-export const HULKBUSTER = 'hulkbuster';
-export const IRONMAN = 'ironman';
-export const IRONPATRIOT = 'ironpatriot';
-export const KANG = 'kang';
-export const ROCKET = 'rocket';
-export const STARLORD = 'starlord';
-export const VISION = 'vision';
-export const THEVISION = 'thevision';
-export const ULTRON = 'ultron';
-export const ULTRONCLASSIC = 'ultronclassic';
-export const WARMACHINE = 'warmachine';
-//Mutant
+// Mutant
 export const BEAST = 'beast';
 export const COLOSSUS = 'colossus';
 export const CYCLOPS = 'cyclops';
@@ -46,22 +33,18 @@ export const WOLVERINE = 'wolverine';
 export const WOLVERINEOLDMAN = 'wolverineoldman';
 export const WEAPONX = 'weaponx';
 export const X23 = 'x23';
-// Skill
-export const AGENTVENOM = 'agentvenom';
-export const BLACKPANTHER = 'blackpanther';
-export const BLACKPANTHERCIVILWAR = 'blackpanthercivilwar';
-export const BLACKWIDOW = 'blackwidow';
-export const CROSSBONES = 'crossbones';
-export const DAREDEVIL = 'daredevil';
-export const DAREDEVILNETFLIX = 'daredevilnetflix';
-export const ELEKTRA = 'elektra';
-export const FALCON = 'falcon';
-export const HAWKEYE = 'hawkeye';
-export const KARNAK = 'karnak';
-export const MOONKNIGHT = 'moonknight';
-export const PUNISHER = 'punisher';
-export const REDSKULL = 'redskull';
-export const WINTERSOLDIER = 'wintersoldier';
+// Mystic
+export const DRSTRANGE = 'drstrange';
+export const DRSTRANGEMARVELNOW = 'drstrangemarvelnow';
+export const GUILLOTINE = 'guillotine';
+export const IRONFIST = 'ironfist';
+export const IRONFISTWHITE = 'ironfistwhite';
+export const JUGGERNAUT = 'juggernaut';
+export const MAGIK = 'magik';
+export const SCARLETWITCH = 'scarletwitch';
+export const SCARLETWITCHULTIMATE = 'scarletwitchultimate';
+export const THORJANEFOSTER = 'thorjanefoster';
+export const UNSTOPPABLECOLOSSUS = 'unstoppablecolossus';
 // Science
 export const ABOMINATION = 'abomination';
 export const ANTMAN = 'antman';
@@ -79,17 +62,34 @@ export const SPIDERGWEN = 'spidergwen';
 export const SPIDERMAN = 'spiderman';
 export const SPIDERMANMORALES = 'spidermanmorales';
 export const YELLOWJACKET = 'yellowjacket';
-// Mystic
-export const DRSTRANGE = 'drstrange';
-export const DRSTRANGEMARVELNOW = 'drstrangemarvelnow';
-export const GUILLOTINE = 'guillotine';
-export const IRONFIST = 'ironfist';
-export const IRONFISTWHITE = 'ironfistwhite';
-export const JUGGERNAUT = 'juggernaut';
-export const MAGIK = 'magik';
-export const SCARLETWITCH = 'scarletwitch';
-export const SCARLETWITCHULTIMATE = 'scarletwitchultimate';
-export const THORJANEFOSTER = 'thorjanefoster';
-export const UNSTOPPABLECOLOSSUS = 'unstoppablecolossus';
+// Skill
+export const AGENTVENOM = 'agentvenom';
+export const BLACKPANTHER = 'blackpanther';
+export const BLACKPANTHERCIVILWAR = 'blackpanthercivilwar';
+export const BLACKWIDOW = 'blackwidow';
+export const CROSSBONES = 'crossbones';
+export const DAREDEVIL = 'daredevil';
+export const DAREDEVILNETFLIX = 'daredevilnetflix';
+export const ELEKTRA = 'elektra';
+export const FALCON = 'falcon';
+export const HAWKEYE = 'hawkeye';
+export const KARNAK = 'karnak';
+export const MOONKNIGHT = 'moonknight';
+export const PUNISHER = 'punisher';
+export const REDSKULL = 'redskull';
+export const WINTERSOLDIER = 'wintersoldier';
+// Tech
+export const CIVILWARRIOR = 'civilwarrior';
+export const HULKBUSTER = 'hulkbuster';
+export const IRONMAN = 'ironman';
+export const IRONPATRIOT = 'ironpatriot';
+export const KANG = 'kang';
+export const ROCKET = 'rocket';
+export const STARLORD = 'starlord';
+export const VISION = 'vision';
+export const THEVISION = 'thevision';
+export const ULTRON = 'ultron';
+export const ULTRONCLASSIC = 'ultronclassic';
+export const WARMACHINE = 'warmachine';
 // Unknown
 export const MAESTRO = 'maestro';
