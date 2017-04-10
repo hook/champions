@@ -6,7 +6,7 @@ import WebpackDevServer from 'webpack-dev-server';
 import webpackConfig, { extractStylesPlugin, championIcons } from '../config/webpack-config.js';
 
 gulp.task('develop', (callback) => {
-    const domain = 'localhost';
+    const domain = inDocker() ? '0.0.0.0' : 'localhost';
     const port = 8080;
     const config = {
         ...webpackConfig,
@@ -58,7 +58,9 @@ gulp.task('develop', (callback) => {
             throw new gutil.PluginError('webpack-dev-server', err);
         }
         gutil.log('[webpack-dev-server] 🌎', `http://${ domain }:${ port }/index.html`);
-        opn(`http://${domain}:${port}`);
+        if (!inDocker()) {
+           opn(`http://${domain}:${port}`);          
+        }
     });
 });
 
@@ -109,3 +111,11 @@ gulp.task('webpack', (callback) => {
         callback();
     });
 });
+
+function inDocker() {
+  var inDocker = gutil.env.docker;
+  if (!inDocker) {
+    inDocker = "false";
+  }
+  return inDocker === "true";
+}

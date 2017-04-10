@@ -4,7 +4,7 @@
   "description": "Contest of Champions Companion App",
   "main": "index.html",
   "scripts": {
-    "start": "gulp develop",
+    "start": "gulp --docker=${RUNNING_IN_DOCKER} develop",
     "lint": "gulp lint",
     "karma": "karma start",
     "karma-data": "karma start --file=./test/data/*",

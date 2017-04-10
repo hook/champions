@@ -1,0 +1,3 @@
+FROM node:6-onbuild
+EXPOSE 8080
+ENV RUNNING_IN_DOCKER true
