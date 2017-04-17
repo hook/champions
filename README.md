@@ -5,6 +5,8 @@
 
 ## Download
 
+[![Join the chat at https://gitter.im/hook/champions](https://badges.gitter.im/hook/champions.svg)](https://gitter.im/hook/champions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
   Clone this repository with git.
 
 ### Installation
