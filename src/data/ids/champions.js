@@ -29,6 +29,7 @@ export const KANG = 'kang';
 export const NEBULA = 'nebula';
 export const PUNISHER2099 = 'punisher2099';
 export const ROCKET = 'rocket';
+export const SPIDERMAN_STARKENHANCED = 'spiderman_starkenhanced';
 export const STARLORD = 'starlord';
 export const VISION = 'vision';
 export const THEVISION = 'thevision';
