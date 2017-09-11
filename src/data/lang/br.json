@@ -36,11 +36,11 @@
     "champion-daredevil-name": "Daredevil",
     "champion-daredevilnetflix-name": "Daredevil",
     "champion-elektra-name": "Elektra",
-    "champion-hawkeye-name": "Hawkeye",
+    "champion-hawkeye-name": "Gavião Arqueiro",
     "champion-moonknight-name": "Cavaleiro da Lua",
     "champion-punisher-name": "Justiceiro",
     "champion-wintersoldier-name": "Soldado Invernal",
-    "champion-abomination-name": "Abobinável",
+    "champion-abomination-name": "Abominável",
     "champion-antman-name": "Homem Formiga",
     "champion-captainamerica-name": "Capitão América",
     "champion-captainamericawwii-name": "Capitão América WWII",
@@ -54,7 +54,7 @@
     "champion-spidermanmorales-name": "Homem-Aranha Morales",
     "champion-yellowjacket-name": "Jaqueta Amarela",
     "champion-drstrange-name": "Dr. Estranho",
-    "champion-drstrangemarvelnow-name": "Dr. Estranho",
+    "champion-drstrangemarvelnow-name": "Dr. Estranho Marvel Now",
     "champion-ironfist-name": "Punho de Ferro",
     "champion-guillotine-name": "Guilhotina",
     "champion-juggernaut-name": "Fanático",
@@ -70,58 +70,58 @@
     "champion-superiorironman-shortname": "Homem de Ferro Sup.",
     "champion-thorjanefoster-shortname": "Thor",
     "champion-rocket-shortname": "Rocket",
-    "champion-deadpoolxforce-shortname": "Deadpool",
+    "champion-deadpoolxforce-shortname": "Deadpool X-Force",
     "champion-magnetomarvelnow-shortname": "Magneto",
     "champion-captainamerica-shortname": "Cap. América",
-    "champion-captainamericawwii-shortname": "Cap. América",
-    "champion-spidermanmorales-shortname": "Homem-Aranha",
+    "champion-captainamericawwii-shortname": "Cap. América wwii",
+    "champion-spidermanmorales-shortname": "Homem-Aranha Morales",
     "champion-drstrange-shortname": "Dr. Estranho",
     "champion-drstrangemarvelnow-shortname": "Dr. Estranho",
     "champion-unstoppablecolossus-shortname": "Colossus Fanat.",
 
-    "ability-stun-name": "Stun",
-    "ability-fatigue-name": "Fatigue",
-    "ability-powerdrain-name": "Power Drain",
-    "ability-powerburn-name": "Power Burn",
-    "ability-bleed-name": "Bleed",
-    "ability-cauterize-name": "Cauterize",
-    "ability-armorbreak-name": "Armor Break",
-    "ability-fury-name": "Fury",
-    "ability-regeneration-name": "Regeneration",
-    "ability-unstoppable-name": "Unstoppable",
-    "ability-poison-name": "Poison",
-    "ability-armorup-name": "Armor Up",
-    "ability-plusdamage-name": "Increased Damage",
-    "ability-pluscritrate-name": "Increased Critical Rate",
-    "ability-pluscritdamage-name": "Increased Critical Damage",
-    "ability-poisonimmunity-name": "Poison Immunity",
-    "ability-bleedimmunity-name": "Bleed Immunity",
+    "ability-stun-name": "Atordoar",
+    "ability-fatigue-name": "Cansaço",
+    "ability-powerdrain-name": "Drenagem de poder",
+    "ability-powerburn-name": "Queima de poder",
+    "ability-bleed-name": "Sangrar",
+    "ability-cauterize-name": "Cauterizar",
+    "ability-armorbreak-name": "Quebra de armadura",
+    "ability-fury-name": "Furia",
+    "ability-regeneration-name": "Regeneração",
+    "ability-unstoppable-name": "Imparável",
+    "ability-poison-name": "Veneno",
+    "ability-armorup-name": "Aumento de armadura",
+    "ability-plusdamage-name": "Aumento de dano",
+    "ability-pluscritrate-name": "Aumento de taxa crítica",
+    "ability-pluscritdamage-name": "Aumento de dano crítico",
+    "ability-poisonimmunity-name": "Imunidade a veneno",
+    "ability-bleedimmunity-name": "Imunidade a sangramento",
 
-    "effect-attack-type": "Attack",
-    "effect-stun-type": "Stun",
-    "effect-critrate-type": "Critical Rate",
-    "effect-critdamage-type": "Critical Damage",
-    "effect-powergain-type": "Power Gain",
-    "effect-powersteal-type": "Power Steal",
-    "effect-perfectblock-type": "Perfect Block",
-    "effect-block-type": "Block Proficiency",
-    "effect-armor-type": "Armor",
-    "effect-health-type": "Health",
-    "effect-healthsteal-type": "Health Steal",
+    "effect-attack-type": "Ataque",
+    "effect-stun-type": "Atordoar",
+    "effect-critrate-type": "Taxa crítica",
+    "effect-critdamage-type": "Dano crítico",
+    "effect-powergain-type": "Ganho de poder",
+    "effect-powersteal-type": "Roubo de poder",
+    "effect-perfectblock-type": "Bloqueio perfeito",
+    "effect-block-type": "Proficiência de bloqueio",
+    "effect-armor-type": "Armadura",
+    "effect-health-type": "Saúde",
+    "effect-healthsteal-type": "Roubo de saúde",
+    
+    "effect-attack-description": "Aumenta o dano em todos os ataques".
+    "effect-stun-description": "Chance de atordoar em ataques especiais".
+    "effect-critrate-description": "Aumenta a chance de ataque crítico".
+    "effect-critdamage-description": "Aumenta o multiplicador de danos para ataques críticos".
+    "effect-powergain-description": "Ganho de poder adicional (usado para disparar um especial) sempre que o poder for adquirido."
+    "effect-powersteal-description": "Ganho de poder (usado para disparar um especial) ao atacar."
+    "effect-perfectblock-description": "Maior chance de bloqueio perfeito para 0 dano".
+    "effect-block-description": "Aumenta a eficácia do bloqueio para menos danos."
+    "effect-armor-description": "Aumenta a armadura para que todos os danos recebidos diminuam".
+    "effect-health-description": "Aumenta a saúde do campeão".
+    "effect-healthsteal-description": "Ganhar Saúde ao atacar".
 
-    "effect-attack-description": "Increases damage on all attacks.",
-    "effect-stun-description": "Chance to Stun on special attacks.",
-    "effect-critrate-description": "Increases the chance for Critical hit.",
-    "effect-critdamage-description": "Increases damage multiplier for Critical hits.",
-    "effect-powergain-description": "Gain additional Power (used to trigger a special) whenever Power is gained.",
-    "effect-powersteal-description": "Gain Power (used to trigger a special) when attacking.",
-    "effect-perfectblock-description": "Increased chance to Perfect Block for 0 damage.",
-    "effect-block-description": "Increases Block effectiveness for less damage taken.",
-    "effect-armor-description": "Increases Armor so that all damage taken is decreased.",
-    "effect-health-description": "Increases champion Health.",
-    "effect-healthsteal-description": "Gain Health when attacking.",
-
-    "type-cosmic-name": "Cosmico",
+    "type-cosmic-name": "Cósmico",
     "type-tech-name": "Tecnológico",
     "type-mutant-name": "Mutante",
     "type-skill-name": "Habilidade",
@@ -138,19 +138,19 @@
     "crystal-3star-name": "3-Estrelas",
     "crystal-4star-name": "4-Estrelas",
 
-    "crystal-versus-description": "Acquired when you win a versus match.",
-    "crystal-arena-description": "Buy for 2000 $BATTLECHIPS$.",
-    "crystal-alliance-description": "Buy for 1000 $LOYALTY$.",
-    "crystal-daily-description": "Acquired once every 24 hours.",
-    "crystal-premium-description": "Buy for 100 $UNITS$.",
-    "crystal-3star-description": "Buy for 400 $UNITS$, rare event.",
-    "crystal-4star-description": "Buy for 2500 $UNITS$, very rare event.",
+    "crystal-versus-description": "Adquirido quando você ganha uma partida um contra um.",
+    "crystal-arena-description": "Compre por 2000 $BATTLECHIPS$.",
+    "crystal-alliance-description": "Compre por 1000 $LOYALTY$.",
+    "descrição cristal-diária": "Adquirido uma vez a cada 24 horas".
+    "crystal-premium-description": "Compre por 100 $UNITS$.",
+    "crystal-3star-description": "Compre por 400 $UNITS$, evento raro".
+    "Crystal-4star-description": "Compre por 2500 $UNITS$, evento muito raro".
 
     "algorithm-quest-name": "Missão",
     "algorithm-arena-name": "Arena",
 
-    "algorithm-quest-description": "SLOW. This picks the best team mathematically given all parameters.",
-    "algorithm-arena-description": "FAST. This chooses the best combinations of teams possible.",
+    "algoritmo-quest-description": "Demorado. Isso escolhe a melhor equipe matematicamente com todos os parâmetros".
+    "algoritmo-arena-descrição": "Rápido. Isso escolhe as melhores combinações de equipes possíveis".
 
     "preset-offensive-name": "Ofensivo",
     "preset-balanced-name": "Balanceado",
@@ -180,7 +180,7 @@
     "crystal": "Cristal",
     "crystals": "Cristais",
 
-    "roster": "Roster",
+    "roster": "Lista",
 
     "manage": "Gerenciar",
     "add-champion": "Add um Campeão",
@@ -219,12 +219,12 @@
 
     "add-all": "Add todos",
 
-    "reset-defaults": "Reset to Defaults",
-    "champion-weights": "Champion Weights",
-    "synergy-weights": "Synergy Weights",
+    "reset-defaults": "Voltar padrões",
+    "champion-weights": "Influências de campeão",
+    "synergy-weights": "Influências de sinergia",
     "duplicate-weights": "Duplicate Class Weights",
-    "choose-preset": "Choose a preset...",
-    "use-levels": "Calculate using stars / ranks / levels",
+    "choose-preset": "Escolha uma ajuste...",
+    "use-levels": "Calcule sando estrelas / posição / níveis",
 
     "double": "Duplo",
     "triple": "Tripo",
@@ -238,28 +238,28 @@
     "description": "Descrição",
     "gameplay": "Gameplay",
     "special": "Especial",
-    "signature": "Signature Ability",
+    "signature": "Habilidade",
     "attack": "Ataque",
     "heavy-attack": "Ataque forte",
     "abilities": "Habilidades",
     "passive-abilities": "Habilidades passivas",
 
-    "rating": "Rating",
-    "grade": "Grade",
+    "rating": "Avaliação",
+    "grade": "Grau",
     "strategy": "Estratégia",
     "style": "Estilo",
 
-    "damage-type": "Damage Type",
-    "range": "Range",
-    "note": "Note",
+    "damage-type": "Tipo de dano",
+    "range": "Alcance",
+    "note": "Notas",
 
-    "synergies-external": "External Synergies",
+    "synergies-external": "Sinergias externas",
 
-    "author": "Author",
-    "profile": "Profile",
+    "author": "Autor",
+    "profile": "Perfil",
     "profile-reddit": "Reddit /u/",
-    "profile-kabam": "Kabam Forums",
-    "author-credit": "This guide was written by",
+    "profile-kabam": "Fórum Kabam",
+    "author-credit": "Este guia foi feito por",
     "email": "E-mail",
 
     "language": "Idioma",
@@ -269,5 +269,5 @@
     "link-reddit": "Reddit /r",
     "share-to": "Compartilhar",
 
-    "number-delimiter": "."
+    "number-delimiter": ","
 }
