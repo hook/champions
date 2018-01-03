@@ -59,6 +59,7 @@ const synergies = [
         ...fromStars(2, 4, [ CHAMPION.SPIDERMAN, CHAMPION.CYCLOPS ], EFFECT.ARMOR),
         ...fromStars(3, 4, [ CHAMPION.KANG ], EFFECT.ATTACK),
         ...fromStars(3, 4, [ CHAMPION.HULK ], EFFECT.CRITICAL_DAMAGE),
+        ...fromStars(3, 5, [ CHAMPION.KARNAK ], EFFECT.HEALTH),
     ]),
 
     ...fromId(CHAMPION.CAPTAINMARVEL, [
@@ -468,6 +469,11 @@ const synergies = [
         ...fromStars(3, 5, [ CHAMPION.CAPTAINMARVEL, CHAMPION.MSMARVEL ], EFFECT.PERFECT_BLOCK),
     ]),
 
+    ...fromId(CHAMPION.MEDUSA, [
+        ...fromStars(3, 5, [ CHAMPION.WOLVERINE ], EFFECT.CRITICAL_RATE),
+        ...fromStars(3, 5, [ CHAMPION.QUAKE ], EFFECT.CRITICAL_DAMAGE),
+    ]),
+
     ...fromId(CHAMPION.MOONKNIGHT, [
         ...fromStars(2, 5, [ CHAMPION.SPIDERMAN ], EFFECT.ARMOR),
         ...fromStars(2, 5, [ CHAMPION.DEADPOOLXFORCE, CHAMPION.DEADPOOL ], EFFECT.CRITICAL_DAMAGE),
@@ -603,7 +609,7 @@ const synergies = [
     ]),
 
     ...fromId(CHAMPION.DORMAMMU, [
-        ...fromStars(3, 5, [ CHAMPION.GUILLOTINE ], EFFECT.INSEPARABLE),
+        ...fromStars(3, 5, [ CHAMPION.HOOD ], EFFECT.INSEPARABLE),
         ...fromStars(3, 5, [ CHAMPION.DRSTRANGE ], EFFECT.ATTACK),
         ...fromStars(4, 5, [ CHAMPION.DRVOODOO ], EFFECT.CRITICAL_RATE),
     ]),

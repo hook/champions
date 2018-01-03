@@ -3,12 +3,12 @@ import webpackConfig from './webpack-config';
 export default function(config) {
     config.set({
         singleRun: true,
-        browsers: config.browsers && config.browsers.length && config.browsers || [ 'PhantomJS2' ],
+        browsers: [ 'PhantomJS' ],
         // karma only needs to know about the test bundle
         files: [
             { pattern: './node_modules/babel-polyfill/dist/polyfill.js', watched: false, included: true, served: true },
             { pattern: './src/images/**/*', watched: false, included: false, served: true },
-            config.file || './test/**/*.js*',
+            './test/**/*.js*',
         ],
         proxies: {
             '/images/': '/base/src/images/',
@@ -31,22 +31,24 @@ export default function(config) {
         // webpack config object
         webpack: {
             ...webpackConfig,
-            devtool: 'inline-source-map',
+            devtool: 'inline-cheap-module-source-map',
         },
         webpackMiddleware: {
             noInfo: true,
         },
-        phantomjsLauncher: {
-            exitOnResourceError: true,
+        webpackServer: {
+            noInfo: true,
         },
         plugins: [
-            'karma-phantomjs2-launcher',
+            'karma-phantomjs-launcher',
             'karma-mocha-reporter',
             'karma-chai',
             'karma-mocha',
             'karma-sourcemap-loader',
             'karma-webpack',
         ],
+        colors: true,
         logLevel: config.LOG_WARN,
+        concurrency: Infinity,
     });
 }
