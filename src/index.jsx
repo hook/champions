@@ -376,6 +376,21 @@ router.on('/synergy/stars/:stars/?', (stars) => {
     requestRedraw();
 });
 
+router.on('/synergy/all/?', () => {
+    app.tab = 'synergy';
+    app.pages[ 'synergy' ] = (
+        <SynergyPage />
+    );
+    app.menu = (
+        <SynergyMenu />
+    );
+    app.button = null;
+    app.route = app.history.synergy = '/synergy/all';
+    app.hotkeys = null;
+    analytics.pageView();
+    requestRedraw();
+});
+
 router.on('/glossary/?', () => {
     app.tab = 'glossary';
     app.pages[ 'glossary' ] = (
