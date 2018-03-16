@@ -1,0 +1,32 @@
+{
+    "description": "Cunning businessman Norman Osborn was rarely satisfied with the success lawful ventures provided. Intending to gain the strength to beat Spider-Man, Norman subjected himself to an experimental serum, which proved terrifyingly successful, granting Norman vastly greater faculties but at the cost of his sanity. Unhinged and armed with Oscorp’s most advanced weaponry, the Green Goblin now rains fear down upon Spider-Man, and his perceived enemies.",
+    "youtube": "TWFl7eHuufI",
+    "gameplay": {
+        "description": "Madness\n\nGreen Goblin has a 10% chance to gain Madness whenever opponents attack him. +90% chance if Green Goblin performs a well-timed Block. Madness charges last 10 seconds.\nWhile Green Goblin has more Madness than Cunning, or the two are equal, he passively Regenerates 60% of damage taken from Basic Attacks and opponents deal 30% less damage on Special Attacks.\n\nCunning\n\nWhen Green Goblin gains a full bar of Power, he gains Cunning. Cunning charges last 20 seconds.\nWhile Green Goblin has more Cunning than Madness, or the two are equal, the opponent generates 40% less Power and Green Goblin gains +30% Attack on Special Attacks.\n\nBag of Tricks – Special & Heavy Attacks\n\nPower Drain – drains 8% of the opponent’s max Power.\nPoison – deals 1477.5 direct damage over 12 seconds.\nIncinerate – deals 1300.2 Energy Damage over 4 seconds. Also removes Perfect Block Chance and reduces Block Proficiency by 50%.\nWeakness – reduces the opponent’s Attack by 45% for 12 seconds."
+    },
+    "attack": {
+        "heavy": "Afterburner: 20% chance to Incinerate."
+    },
+    "specials": {
+        "1": {
+            "description": "Manic Assault – Tossing down a flash bomb, the Green Goblin fires off a hasty barrage of electrical blasts then chucks a pumpkin bomb for good measure.",
+            "note": "Laser Blasts: 40% chance to Power Drain. Pumpkin Bomb: 90% chance to inflict Weakness"
+        },
+        "2": {
+            "description": "Oscorp Offensive – A strike from the glider, a pumpkin bomb to the face and a blast from the afterburner leaves Norman’s foe in a terrible state.",
+            "note": "Afterburner: 100% chance to Incinerate. Pumpkin Bomb: 85% chance to Poison."
+        },
+        "3": {
+            "description": "Goblin King’s Blitz – Norman takes to the skies and blasts his opponent with every pumpkin bomb he can pull from his bag of tricks. Enjoy!",
+            "note": "Pumpkin Bombs: 40% chance to inflict Power Drain, Weakness, Incinerate and Poison."
+        }
+    },
+    "signature": {
+        "description": "Oscorp Weaponry – Green Goblin gains access to the Super Bomb that allows him to activate his entire Bag of Tricks at once.",
+        "note": "Special Attacks: 15-34% chance per bar of Power to activate a Super Bomb which causes all Bag of Tricks effects to trigger instead of the standard Pumpkin Bomb effect; however, the Special 3 attack still has a chance to trigger both Super Bomb and Pumpkin Bomb effects."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "kabam"
+    }
+}

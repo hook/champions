@@ -79,6 +79,7 @@ const champions = [
     ...typeId(TYPE.MUTANT, [
         ...championStars({ uid: CHAMPION.ARCHANGEL }, [ 2, 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.BEAST }, [ 2, 3, 4, 5, 6 ]),
+        ...championStars({ uid: CHAMPION.BISHOP }, [ 3, 4, 5]),
         ...championStars({ uid: CHAMPION.CABLE }, [ 2, 3, 4, 5, 6 ]),
         ...championStars({ uid: CHAMPION.COLOSSUS }, [ 1, 2, 3, 4, 5 ]),
         ...championStars({ uid: CHAMPION.CYCLOPS }, [ 2, 3, 4, 5 ]),

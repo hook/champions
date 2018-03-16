@@ -1,0 +1,28 @@
+{
+    "description": "Jake Gallows, proud member of the Public Eye Police Force had his life stolen from him one fateful day in 2099. Left for dead with his family murdered in cold blood, Jake discovered that if he wanted retribution, he’d have to handle it himself. His ruthless approach and top tier training eventually caught the eye of Hydra, and Jake was placed in charge of the Ministry of Punishment, where his punishments have only grown more severe and frequent.",
+    "youtube": "SSAXW6pYtDI",
+    "gameplay": {
+        "description": "Nano-Tech – Charging\nThe Nano-Tech Battery begins the fight with 25% of its max charge.\nEvery 5 seconds, the Battery triggers a recharge.\nIf the opponent has 0 Buffs, the Battery recharges 6%\nIf the opponent has 1 Buff, the Battery recharges 4%\nIf the opponent has 2 or more Buffs, the Battery recharges 3%\n\nNano-Tech – Automatic Effects\nOpponent activates a Regeneration Buff – 20% of the Battery is drained to infect the opponent with nano-inhibitors and Heal Block them for 8 seconds. This Debuff automatically reapplies itself if a Regeneration Buff is still active when it expires.\nPunisher 2099 drops below 10% Health – the Battery is drained entirely, allowing Punisher 2099 to Regenerate 29.8 Health over 10 seconds for each percent drained.\nPunisher 2099 lands a Heavy Attack – 15% of the Battery is drained to Stun the opponent for 1.5 seconds.\n\nNano-Tech – Overdrive\nWhen the Battery hits 100%, it immediately goes into Overdrive and continually drains. It also cannot recharge until it is drained entirely and switches back to recharge mode.\nWhile in Overdrive: Punisher 2099 gains 17.31 additional Attack Rating for each remaining percent in the Battery and his attacks cause his opponent to gain 90% less Power."
+    },
+    "specials": {
+        "1": {
+            "description": "Excessive Force – A vicious pistol whip followed by a barrage of hot lead shows why Jake still relies on good old fashioned gun-powder.",
+            "note": "Punisher 2099 momentarily switches his battery into Overcharge mode, gaining 16% charge over 8 seconds."
+        },
+        "2": {
+            "description": "Crowd Control – A burst of fire from his assault rifle and a grenade to the face will disperse any target.",
+            "note": "20% of the Battery is drained to activate Auto-Targeting. Auto-Target attacks cannot trigger a Passive Evade and gain 857 additional Critical Rating. Grenade Launcher: 100% chance to Armor Break, removing 2000 Armor Rating for 10 seconds. If the Battery has at least 10% charge, it expends that amount to double the duration of the Armor Break Debuff."
+        },
+        "3": {
+            "description": "Final Deletion – You have been found guilty of assaulting the Minister of Punishment. Your sentence: Disintegration.",
+            "note": "50% of the Battery is drained to Disintegrate the opponent, dealing 2308 Direct Damage over 10 seconds and reducing their Power Gain Rate by 90%."
+        }
+    },
+    "signature": {
+        "description": "Retribution 2099\n\nA last-minute upgrade to Punisher 2099’s arsenal allows him to begin each fight with an additional 15% charge in his Nano-Tech Battery and also gains a new Nano-Tech Automatic Effect.\nOpponent hits max Power Meter – 50% of the Battery is drained to drain 5% of the opponent’s Power and Power Lock them for 8 seconds."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight"
+    }
+}

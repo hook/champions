@@ -46,6 +46,7 @@ export const YONDU = 'yondu';
 // Mutant
 export const ARCHANGEL = 'archangel';
 export const BEAST = 'beast';
+export const BISHOP = 'bishop';
 export const CABLE = 'cable';
 export const COLOSSUS = 'colossus';
 export const CYCLOPS = 'cyclops';

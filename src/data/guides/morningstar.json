@@ -1,0 +1,44 @@
+{
+    "specials": {
+        "1": {
+            "description": "Strength of Languria – Morningstar strikes with her weapon, as it glows with the power of the souls contained within.",
+            "note": "Each hit of this attack deal 315 Bonus Energy Damage per Captured Soul. This Damage increases with Critical Hits."
+        },
+        "2": {
+            "description": "Maiden’s Furnace – Morningstar channels her pain, rage, and hatred into a beam of pure power.",
+            "note": "Each hit of this attack deals 861 Bonus Energy Damage per Buff active on the Opponent, when the attack is triggered. 100% Chance to Nullify all Buffs"
+        },
+        "3": {
+            "note": "Morningstar begins to pull her opponent’s soul from their body, place a counter on herself. Damage to the opponent increases the counter, Damage to Morningstar reduces it. If the counter reaches 100, she captures the Soul. If it reaches 0, her opponent reclaims their soul. Morningstar can capture only 1 Soul per fight.",
+            "description": "Soul Chains – Morningstar lets her weapon taste the soul of her enemy."
+        }
+    },
+    "youtube": "vcilhTk1IRQ",
+    "description": "Queen Haasen conquered and ruthlessly ruled over her kingdom of Languria with only a few mercenaries, and a demonic sword. But her people rebelled against the Queen’s reign of fire and blood, and sealed her within a mystical iron maiden to suffer for all time. When Mephisto offered her a chance for vengeance, the Prince of Lies granted her new life in the tortured form of her walking iron tomb, and the weapon for which she is named: Morningstar.",
+    "gameplay": {
+        "abilities": [
+            "bleedimmunity"
+        ],
+        "description": "Captured Souls –   \nOver the course of a quest, Morningstar’s weapon captures Souls and stored up to 5 of them, empowering both her and itself. Captured Souls travel with them from fight-to-fight.\n1 Soul: When struck with a Physical Contact attack, Morningstar has a 50% chance to cause her opponent to Bleed for 574 damage over 5 seconds.\n2 Souls: Special 1 Triggers Unstoppable for 2.5 Seconds\n3 Souls: Special 2 becomes Unblockable\n4 Souls: Gain 574 Energy Resist, and 50% Perfect Block Chance.\n5 Souls: 20% chance on Hit to Life Steal 50% of the Damage done to the Opponent."
+    },
+    "attack": {
+        "heavy": "100% Chance to trigger a Power Gain granting 5% of Max Power per Captured Soul over 15 seconds. Max: 1 Stack",
+        "abilities": [
+            "powersteal"
+        ]
+    },
+    "signature": {
+        "description": "Soul Link – Morningstar’s weapon grants her a link to her Opponent’s soul, allowing her to feed on its power, strengthening herself, while weakening them.",
+        "note": "If Morningstar has less than 1 Captured Soul at the start of a fight, she gains 1. Morningstar’s Weapon grants her a link to her Opponent’s Soul, allowing her to siphon away a portion of the power from any Fury, Power Gain, or Regeneration Buffs they trigger, reducing their potency by 50%, and granting her own Buff. Fury: +631 Attack for 15 Seconds. Regeneration: +1974 Health over 15 Seconds. Power Gain: +22.5% Power over 15 Seconds.",
+        "abilities": [
+            "regeneration",
+            "powersteal",
+            "fury"
+        ]
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-morningstar/"
+    }
+}
