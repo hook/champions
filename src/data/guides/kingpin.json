@@ -1,0 +1,34 @@
+{
+    "description": "Wilson Fisk, Kingpin of Crime in New York City, rules the underworld with ruthless efficiency. Gaining power through numerous illegal ventures and intimidation, Kingpin has gone toe-to-toe with the likes of Spider-Man and Daredevil, keeping pace thanks to his incredible physical prowess and strength. Now the infamous crime lord has set his sights on the Contest and its rich supply of dangerous black ISO-8. For Fisk, the Contest is just another city to conquer.",
+    "youtube": "6s6QhAXnEzc",
+    "gameplay": {
+        "abilities": [
+            "unstoppable"
+        ],
+        "description": "Rage  \nWhenever Kingpin gains a Debuff he has a 50% chance to convert it into a permanent Rage which has no effect.\nEach Debuff and Rage on Kingpin only strengthens his resolve, increasing his Attack by 292.75 and Power Gain Rate by 5%.\nWhenever the Opponent Evades one of Kingpin’s attacks, he gains a Rage. Cooldown: 1.5 seconds. \n\nOverpower\n\nIf Kingpin’s Debuffs and Rages combine to equal 8, he converts them into an Overpower Buff, lasting 12 seconds and increases his attack by 2927.5.\nWhile in Overpower mode, Kingpin’s Special Attacks become Unblockable and he cannot gain Rage."
+    },
+    "attack": {
+        "heavy": "While charging a Heavy Attack, Kingpin becomes Unstoppable for 0.8 seconds and has 1333.33 additional Physical Resistance. If Kingpin lands 3 Heavy Attacks within 2.5 seconds of each other he gains Fury, increasing his Attack by 878.25 for 10 seconds. While Kingpin has this Fury Buff, he cannot become Unstoppable."
+    },
+    "specials": {
+        "1": {
+            "description": "Dirty Deeds – Nothing’s illegal in The Contest. Especially not a concentrated dose of toxic Black ISO-8.",
+            "note": "Infects the opponent with Black ISO-8, dealing 1756.5 direct damage over 12 seconds. Opponents under Black ISO-8 suffer 45% reduced Defensive Ability Accuracy and Attack."
+        },
+        "2": {
+            "description": "Eliminate the Competition – It’s nothing personal…it’s just good business.",
+            "note": "100% chance to gain an Unstoppable Buff which lasts for 6.50 seconds. While Unstoppable, each hit landed on Kingpin has a 100% chance to grant a Rage."
+        },
+        "3": {
+            "description": "Self Made Man – Such disrespect and insolence towards the Kingpin of crime. It’s time Fisk got his hands dirty…",
+            "note": "Kingpin gains 2 Rage. If he’s in Overpower mode, he instead refreshes the duration of Overpower mode."
+        }
+    },
+    "signature": {
+        "description": "True Nature – Fisk sets his ill intent upon the Contest, beginning the fight with Rage Debuffs already active on himself. He also gains the ability to recover some Rage after finishing his Overpower mode.",
+        "note": "Kingpin begins the fight with 2 Rages. When exiting Overpower mode, Kingpin has a chance to gain up to 4 Rages, each having a 82.44% chance to active."
+    },
+    "author": {
+        "name": "Kabam"
+    }
+}

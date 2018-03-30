@@ -46,6 +46,7 @@ export const YONDU = 'yondu';
 // Mutant
 export const ARCHANGEL = 'archangel';
 export const BEAST = 'beast';
+export const BISHOP = 'bishop';
 export const CABLE = 'cable';
 export const COLOSSUS = 'colossus';
 export const CYCLOPS = 'cyclops';
@@ -59,6 +60,7 @@ export const MAGNETOMARVELNOW = 'magnetomarvelnow';
 export const NIGHTCRAWLER = 'nightcrawler';
 export const PSYLOCKEXFORCE = 'psylockexforce';
 export const ROGUE = 'rogue';
+export const SABRETOOTH = 'sabretooth';
 export const STORM = 'storm';
 export const WOLVERINE = 'wolverine';
 export const WOLVERINEOLDMAN = 'wolverineoldman';

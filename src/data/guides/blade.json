@@ -1,0 +1,44 @@
+{
+    "youtube": "YLW04mmtvwA",
+    "description": "When Eric Brooks’ mother was killed during his birth by a bloodthirsty vampire, the newborn Brooks’ blood was infused with vampiric enzymes.This event turned him into a Dhampir, a hybrid human/vampire, possessing the powers of a vampire like immortality, but none of their weaknesses. Eventually becoming known as Blade, he has the ability to sense supernatural phenomenon, enabling him to identify Dimensional Beings and quickly react to incoming threats, making him effective at hunting the most powerful beings in the Battlerealm.",
+    "gameplay": {
+        "abilities": [
+            "powersteal",
+            "bleed"
+        ],
+        "description": "When nearby Bleeding Opponents\n\nFor every stack of Bleed on the opponent, Blade generates 7% of a Bar of Power per second.   \n\nWhen against Dimensional Beings, Danger Sense activates and grants Blade 1053.6 Attack Rating while also reducing the opponent’s Ability Accuracy by 40%. This Ability Accuracy reduction ignores Dimensional Beings’ Immunities.\nBlade’s immune system attacks alien substances, shrugging off Debuffs up to 95% faster based on current Power.\n\nWell Timed Blocks:\n\n100% chance to inflict Bleed, dealing 395.1 Direct Damage over 2 seconds."
+    },
+    "specials": {
+        "1": {
+            "description": "Go for the Head and the Heart – A powerful sword and glaive attack, inflicting deep wounds upon the opponent.",
+            "note": "Inflicts Bleed, dealing 1317 Direct Damage over 10 seconds.",
+            "abilities": [
+                "bleed"
+            ]
+        },
+        "2": {
+            "description": "Safety’s Off – This fast multi-hit sword art finishes with a blast from Blade’s machine pistol.",
+            "note": "This attack receives 2000 additional Critical Rating. Inflicts Bleed on Critical Hits, dealing 230.48 Direct Damage per stack over 1 second. For each Bleed inflicted, Blade instantly generates 8% of a Bar of Power.",
+            "abilities": [
+                "bleed"
+            ]
+        },
+        "3": {
+            "description": "Day Walker’s Wrath – Blade throws both his glaives in an arc and immediately starts to strike his opponent with his sword, allowing for just enough time for his glaives to return and land the finishing blow.",
+            "note": "Inflicts 3 stacks of Bleed, each dealing 1843.8 Direct Damage over 13 seconds. 70% chance to Stun for 3 seconds.",
+            "abilities": [
+                "bleed",
+                "stun"
+            ]
+        }
+    },
+    "signature": {
+        "description": "Vampiric Immortality – Blade consumes his own Power to recover from injuries at amazing rates.",
+        "note": "When Holding Block while below 70% Health, Blade’s healing factor allows him to recover 722.2 Health for the cost of 50~30% of a Bar of Power per second."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-blade/"
+    }
+}

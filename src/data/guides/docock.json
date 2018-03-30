@@ -1,0 +1,36 @@
+{
+    "description": "Otto Octavius had a troubled life, enduring both an abusive father at home and constant derision from his peers. Devoting his life to science, to prove his detractors wrong, he became a nuclear physicist and engineered a revolutionary set of mechanical arms. When a lab accident fused the arms to his body, his sanity reached a breaking point. Assuming the derogatory name coined by his coworkers, Otto began a life of crime as Doctor Octopus!",
+    "youtube": "9r9W5IeT7tI",
+    "gameplay": {
+        "abilities": [
+            "powerlock",
+            "healblock",
+            "armorup"
+        ],
+        "description": "Scientific Method  \nResearch is built in each Category until it hits 100. If you haven’t gained research in a category for 10 seconds it begins to fall off.\nEach Category grants a Passive effect which scales as its category builds.\nWhen a Category reaches 100, it triggers a Breakthrough as long as there isn’t one already active.\nWhen a Breakthrough effect expires, all Research Categories reset to 0.\n3 Research Categories:\nPhysics – Research Category\nBuilds when your Opponent Gains Power\nScaling Effect: Opponent’s Special Attack Damage reduced by up to 50%.\nBreakthrough: Applies a Power Lock Debuff on the Opponent which lasts 5 seconds.\nChemistry – Research Category\nBuilds on Block or Parry\nScaling Effect: Block Proficiency Buff, granting up to 2000 Block Proficiency\nBreakthrough: Applies a Heal Block Debuff to the Opponent which lasts 5 seconds.\nBiology – Research Category\nBuilds when landing Hits and when being Struck\nScaling Effect: Fury, granting up to 1047 Attack.\nBreakthrough: Applies an Armor Up Buff, granting 2000 Armor for 5 seconds."
+    },
+    "attack": {
+        "heavy": "Remove all currently active Breakthroughs dealing 1047 damage per Breakthrough removed."
+    },
+    "specials": {
+        "1": {
+            "description": "Thesis – Doc Ock has a theory, that he’s better than you are. If you don’t believe him he’ll be happy to demonstrate that fact for you.",
+            "note": "Reset the duration of any currently active Breakthrough Effect. If no Breakthroughs are currently active, it triggers the Breakthrough of whichever category is currently highest."
+        },
+        "2": {
+            "description": "Experiment – Like any good scientist, Doc Ock will need to put his hypothesis to the test, much to the detriment of his test subjects.",
+            "note": "Trigger the Breakthrough effect of all Research Categories currently at 100, and reset the duration of all Breakthroughs to 3.5 seconds per Category currently at 100."
+        },
+        "3": {
+            "description": "Proof – After much careful study and experimentation, Doc Ock can now mathematically prove that your defeat is inevitable.",
+            "note": "Duplicate 1 currently active Breakthrough with a duration of 5 seconds. This Duration increases by 10 seconds per currently active Breakthrough."
+        }
+    },
+    "signature": {
+        "description": "Academic Background\nDoctor Octopus’s extensive academic background lets him start the fight with each of his Research Categories at 60 and each Breakthrough is replaced by a new effect.\nPhysics: Drain 100% of Power Gained and Steal 10% of the Power Drained.\nChemistry: Deal Direct Damage equal to 100% of health gained and Lifesteal 20% of the damage done.\nBiology: Gain the standard Biology Breakthrough Armor Up and 578 Armor Penetration while it’s active."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight"
+    }
+}

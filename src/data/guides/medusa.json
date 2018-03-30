@@ -1,0 +1,38 @@
+{
+    "description": "Born into the Inhuman Royal Family of Attilan, Medusa was exposed to the mutagenic Terrigen Mists when she was only an infant. This transformation endowed her with tougher-than-steel hair and the ability to control each strand like an added appendage. Along with her husband, Black Bolt, Medusa leads her people as the Queen of the Inhumans in their search for a better place in the world.",
+    "youtube": "68i1zpACdsI",
+    "gameplay": {
+        "abilities": [
+            "armorbreak",
+            "bleed",
+            "poisonimmunity"
+        ],
+        "description": "Armor Shattered\n\nWhen the opponent suffers from 6 active Armor Break Debuffs, their Armor Breaks will turn into an Armor Shattered Debuff, reducing Armor Rating by 2444.45 for 26 seconds.\nWhile Armor Shattered is active, opponents cannot suffer from further Armor Breaks nor activate their Armor Buffs. Additionally, this Debuff shatters Robot Champion’s systems, reducing their Ability Accuracy and Power Gain by 100%.\nCritical Light Attacks and All Heavy Attacks:"
+    },
+    "attack": {
+        "description": "On Medium Attacks\n\nMedusa slashes with her hair, breaking the opponent’s Armor and applying 352.94 Armor Rating reduction for 3.6 seconds.",
+        "heavy": "100% chance to inflict Bleed if Armor Shattered is active, dealing 25.66 damage per second until Armor Shattered expires."
+    },
+    "specials": {
+        "1": {
+            "description": "Split Ends – Medusa individually controls each strand of her hair to subdue opponents with a 4-hit combo.",
+            "note": "Medusa inflicts a 4-hit combo, each breaking the opponent’s Armor and reducing their Armor Rating by 352.94 per stack for 6 seconds"
+        },
+        "2": {
+            "description": "Swinging Strands – Medusa swings her body, striking her opponents with a combination of sword and hair attacks.",
+            "note": "Medusa performs a 10-hit combo, each hit has a 60% chance to inflict Bleed if Armor Shattered is active, dealing 513.2 Direct Damage over 2 seconds. Stuns the opponent for 3.5 seconds if Armor Shattered is inactive."
+        },
+        "3": {
+            "description": "Rite of Royalty – Wielding blades in her hands and hair, Medusa shows her opponents that she is the Inhuman Queen for a reason.",
+            "note": "Inflicts Armor Shattered, reducing the opponent’s Armor Rating by 2444.45 for 35 seconds."
+        }
+    },
+    "signature": {
+        "description": "Living Strands – Medusa can precisely control the movement of each strand of her hair, enabling her to Auto Block incoming attacks.",
+        "note": "Medusa gains a Fury Buff every 3 seconds, up to 3 stacks, each increasing Attack by 218.11. Fury Buffs expire 14 seconds after reaching the maximum amount. When struck twice, Medusa has 10~90% chance to Auto Block with her hair, breaking the opponent’s combo, for the cost of 3 Fury Buffs. This can trigger Parry."
+    },
+    "author": {
+        "type": "spotlight",
+        "name": "Kabam"
+    }
+}

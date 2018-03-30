@@ -1,0 +1,31 @@
+{
+    "description": "Most kids Peter Parker’s age rush home after school to play video games or do homework, but not New York’s friendly neighborhood Spider-Man. Donning his new suit with high-tech web shooters and some awesome upgrades courtesy of Tony Stark, Peter protects his home of Queens. But a new threat has risen from the ashes caused by the Battle of New York, and Parker must look beyond his own desires and understand the true meaning of great responsibility.",
+    "youtube": "8spga_RdTTs",
+    "gameplay": {
+        "description": "When Attacked: Spider-Man’s burgeoning Spider-Sense grants him a Passive 3% chance to Evade an incoming attack.\n\nStark Tech AI\n\nAgainst Special Attacks the Stark AI warns Spider-Man of incoming danger and increases his Evade chance by a flat +60%.\nIf Spider-Man is struck by a Cosmic Champion or is struck by a Heavy Attack, the Stark AI shuts down for 10 seconds while it Reboots and is completely inactive during that time.\n\nSmack-Talk\n\nEach time Spider-Man Evades an attack or uses the Dexterity Mastery, he gains a charge of Poise. Cooldown: 0.8 Seconds.\nEach charge of Poise grants 256 Attack rating.\nIf Spider-Man lands 5 uninterrupted attacks, he converts a Poise charge into a Taunt Debuff on the opponent for 3 seconds. Taunt lasts 50% longer against Villain Champions.\nDodging back and allowing Spider-Man to idle for 1 second allows him to smack-talk his opponent and refresh an active Taunt.\nOpponents that are Taunted have their Attack reduced by 40% and have a 70% higher chance to activate a Special Attack."
+    },
+    "attack": {
+        "heavy": "An EMP webshot drains 45% of the opponent’s Power Meter. Cooldown: 30 seconds"
+    },
+    "specials": {
+        "1": {
+            "description": "Spider Strike – Uppercut. Place webs. Launch self at criminal. No problem. Just like back in Queens…but what about the name?",
+            "note": "50% chance to Stun the opponent for 2 seconds. The chance is increased by 100% if the Stark AI is active."
+        },
+        "2": {
+            "description": "Stick & Shock – Electric webshots! Thwip thwip, zap, sizzle!",
+            "note": "Electric webshots have a 70% chance to Shock the opponent, dealing 1154 Energy Damage over 6.5 seconds. These Shock effects are overcharged and deal double damage to Robot Champions."
+        },
+        "3": {
+            "description": "Whatever a Spider Can… – Awesome entrance. Check. Blast the opponent with webshots. Got it. Launch opponent into wall. Nailed it. Strike amazing hero pose…good enough.",
+            "note": "100% chance to Ensnare the opponent for 18 seconds. Ensnared Champions suffer 30% reduced Ability Accuracy and cannot trigger Passive Evade effects."
+        }
+    },
+    "signature": {
+        "description": "Hero’s Mantra\nGreat Power (Above 50% Health) – Spider-Man’s Taunts last 2 seconds longer and each charge of Poise grants him an additional 253 Critical Rating.\nGreat Responsibility (Below 50% Health) – Spider-Man’s chance to Evade an attack increases by a flat +7% and each charge of Poise grants him 82 additional Block Proficiency."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight"
+    }
+}

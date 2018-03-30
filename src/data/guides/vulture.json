@@ -1,0 +1,33 @@
+{
+    "description": "When a failed business opportunity left him desperate, Adrian Toomes became a black market power-player by scavenging the advanced tech and alien weapons left behind from previous Super Hero battles. From these scraps and leftovers, Toomes built himself a massive winged vehicle and retrofitted the rest into incredible weapons that he sells. Now seeking further profits and power, the Vulture has set his sights on even more advanced technology.",
+    "youtube": "DDhcwvZmMuA",
+    "gameplay": {
+        "abilities": [
+            "powerdrain",
+            "incinerate",
+            "armorup"
+        ],
+        "description": "Chitarui Energy Core\n \nVulture spends 50 Chitauri Energy by Dashing away from his opponent then immediately back to trigger a Raptor Strike.\nIf the Raptor Strike attack is blocked he gains a Decoy Buff, which causes the next attack against him that would otherwise hit to miss. Max: 1 Stack\nEach time Vulture lands a Critical Hit his suit stores 5 Chitauri Energy for later use\nIf the Raptor Strike hits his opponent, it drains 25% of their Current Power\nVulture Evades all attacks while Dodging back. Dodging an attack this way consumes 10 Chitauri Energy and Incinerates the opponent, dealing 724 Damage over 5 seconds. Max: 1 Stack\n\nPowered Armor  \n\nVulture has a permanent Armor Up Buff, increasing his Armor by 8.03 per point of Chitauri Energy.\nIf this Buff is removed for any reason, it will refresh itself after 10 seconds."
+    },
+    "specials": {
+        "1": {
+            "description": "Wingpack Strike – Vulture launches the flight pack off his suit directly at his opponent",
+            "note": "100% Chance to apply a Siphon Charge Debuff, which Drains 25% of all Power the opponent gains, converting it into Chitauri Energy. This effect lasts for 15 seconds."
+        },
+        "2": {
+            "description": "Engine Flare – Vulture flares his engines directly into his opponent, blasting them with superheated jetwash.",
+            "note": "100% Chance to apply a Thermal Feedback Debuff, which Burns 25% of all Power the opponent gains, dealing Direct Damage based on the Power Burned. This effect lasts for 10 seconds."
+        },
+        "3": {
+            "description": "Hybrid Alien Technology – Striking from the sky, Vulture hurls his opponent back, before employing an industrial laser heavily modified with alien tech.",
+            "note": "This attack Incinerates the enemy, dealing 2318 Energy Damage over 20 seconds. This effect also removes Perfect Block Chance and reduces Block Proficiency by 50% while it’s active."
+        }
+    },
+    "signature": {
+        "description": "Thermal Absorption\n\nVulture upgrades his suit to convert excess heat into power allowing him to start the fight at full Chitauri Energy and absorb any Incinerate Debuff applied to him, using it to fill his Chitauri Energy.\nAdditionally, while the opponent is Incinerated, Gain 1.02% Power every 0.5 seconds."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "kabam"
+    }
+}

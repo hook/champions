@@ -1,0 +1,36 @@
+{
+    "youtube": "31xSPU8XGDU",
+    "description": "Mephisto is an extra-dimensional demon whose main goal is to break the will and enslave the souls of noble Champions; though he cannot take their souls himself, his treachery and deception is often enough to convince his victims to give them up willingly. Mephisto is continually seeking to add more spirits to his realm, using them to his advantage whenever he sees fit. As a demon who has collected numerous souls, Mephisto is practically immortal and his fiery power is eternal.",
+    "gameplay": {
+        "note": "This Champion has Persistent Charges that carry on from fight-to-fight within a Quest!",
+        "description": "Persistent Soul Charge:\n\nMephisto starts a quest with 3 Persistent Soul Charges, gaining an additional charge each time he knocks out an opponent, up to a max of 6 Soul Charges. Persistent Soul Charges travels with him from fight-to-fight.\nWhen below 30% Health, each Persistent Soul Charge is consumed, Regenerating 10% of Base Health per charge. Mephisto does not take damage while consuming his Persistent Soul Charges through this ability.  \nMephisto imprisons the opponent’s Soul at the start of the fight, reducing their chance to activate Buffs by 100% for 15 seconds.\nGenerates 12% of a Power Bar per second instead of taking Incinerate Energy Damage and Immune to Frostbite and Coldsnap.\nImmune to all known poisons of the Battlerealm.\nAura of Incineration\n\nWhen Aura of Incineration is active, Mephisto generates Power through his passive Power Gain, and for each stack nearby, opponents take 114.8 Incinerate Energy Damage per second.",
+        "abilities": [
+            "regeneration",
+            "poisonimmunity",
+            "incinerate"
+        ]
+    },
+    "specials": {
+        "1": {
+            "description": "Soul Imprisonment – Mephisto blasts lava from his mouth and then immediately summons a mystical wave of bones, imprisoning the opponent’s soul.",
+            "note": "Consumes a Persistent Soul Charge to imprison the opponent’s Soul, reducing their chance to activate Buffs by 100% for 15 seconds. Incinerates the opponent, dealing 688.8 Energy Damage per stack over 4 seconds. This also removes Perfect Block Chance and reduces Block Proficiency by 50%."
+        },
+        "2": {
+            "description": "Aura of Incineration – Lashing his opponent with his whip, Mephisto then conjures an aura of incineration around himself.",
+            "note": "Activates an Aura of Incineration around himself that lasts for 8 seconds."
+        },
+        "3": {
+            "description": "Alternate Reality – Mephisto manipulates reality to shrink his opponent, swallowing them in order to drain their Power and spitting them out when he is done.",
+            "note": "Once a fight, Mephisto instantly drains up to 2 Power Bars from the opponent. If the maximum amount is drained, Mephisto activates his Aura of Incineration for the rest of the fight."
+        }
+    },
+    "signature": {
+        "description": "Burning Aura – Mephisto burns with anger when getting struck, activating his Aura of Incineration around himself.",
+        "note": "When Attacked, Mephisto burns with anger, having a 5 – 14.98% chance to activate his Aura of Incineration for 4 seconds. +120% of the above chance on Well Timed Blocks. Mephisto is immune to Passive Ability Accuracy Modifications."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "champion-spotlight-mephisto/"
+    }
+}
