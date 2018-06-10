@@ -65,7 +65,6 @@ export const THUNDER = 'thunder';
 export const TEAM_DEADPOOL_AWESOME_FORCE = 'teamdeadpoolawesomeforce';
 export const ANNOYANCES_ASSEMBLE = 'annoyancesassemble';
 export const BROKEN_MINDS = 'brokenminds';
-export const THE_GOLD_STANDARD = 'thegoldstandard';
 export const SIX_PACK = 'sixpack';
 export const XFORCE = 'xforce';
 export const WEAPON_X_STRIKE_TEAM = 'weaponxstriketeam';
