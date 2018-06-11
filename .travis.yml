@@ -19,7 +19,7 @@ after_success:
 sudo: required
 env:
   global:
-    - GH_REF: github.com/hook/champions.git
+    - GH_REF: github.com/Luiz012/champions.git
 branches:
   only:
     - master
