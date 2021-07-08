@@ -457,6 +457,16 @@ export const EFFECT_STARS_AMOUNT = {
     [ EFFECT.CHAOS_RISING ]: [ 10, 12, 15 ],
     [ EFFECT.TILL_INFINITY_DO_US_PART ]: [ 10, 12, 15 ],
     [ EFFECT.DEMONIC_PACT ]: [ 10, 12, 15 ],
+    [ EFFECT.SUPER_STARS ]: [ 10, 12, 15 ],
+    [ EFFECT.OUT_OF_THIS_WORLD ]: [ 10, 12, 15 ],
+    [ EFFECT.STAY_POSITIVE ]: [ 10, 12, 15 ],
+    [ EFFECT.KO_QUEENS ]: [ 10, 12, 15 ],
+    [ EFFECT.NEXT_ROUND_ON_ME ]: [ 10, 12, 15 ],
+    [ EFFECT.MASTERFUL_COMBAT ]: [ 10, 12, 15 ],
+    [ EFFECT.ARM_WRESTLING_CLUB ]: [ 10, 12, 15 ],
+    [ EFFECT.PAWN_SET_FREE ]: [ 10, 12, 15 ],
+    [ EFFECT.INCREDIBLE_SUBSTITUTE ]: [ 10, 12, 15 ],
+    [ EFFECT.I_REQUIRE_THY_SHIELD ]: [ 10, 12, 15 ],
 };
 export const EFFECT_STARS_INDEX = { 1: 0, 2: 0, 3: 1, 4: 2, 5: 2 };
 
@@ -918,6 +928,16 @@ const effects = [
     { uid: EFFECT.CHAOS_RISING },
     { uid: EFFECT.TILL_INFINITY_DO_US_PART },
     { uid: EFFECT.DEMONIC_PACT },
+    { uid: EFFECT.SUPER_STARS },
+    { uid: EFFECT.OUT_OF_THIS_WORLD },
+    { uid: EFFECT.STAY_POSITIVE },
+    { uid: EFFECT.KO_QUEENS },
+    { uid: EFFECT.NEXT_ROUND_ON_ME },
+    { uid: EFFECT.MASTERFUL_COMBAT },
+    { uid: EFFECT.ARM_WRESTLING_CLUB },
+    { uid: EFFECT.PAWN_SET_FREE },
+    { uid: EFFECT.INCREDIBLE_SUBSTITUTE },
+    { uid: EFFECT.I_REQUIRE_THY_SHIELD },
 ].map(({ uid }) => new Effect({
     uid,
     base: EFFECT_STARS_AMOUNT[ uid ][ 0 ],
@@ -1382,6 +1402,16 @@ const effectIcons = {
     [ EFFECT.CHAOS_RISING ]: 'effect-genetic-recode-probability',
     [ EFFECT.TILL_INFINITY_DO_US_PART ]: 'effect-phalanx-feud',
     [ EFFECT.DEMONIC_PACT ]: 'effect-regeneration',
+    [ EFFECT.SUPER_STARS ]: 'effect-student-loans',
+    [ EFFECT.OUT_OF_THIS_WORLD ]: 'effect-sorcery-reversal',
+    [ EFFECT.STAY_POSITIVE ]: 'effect-power-lock',
+    [ EFFECT.KO_QUEENS ]: 'effect-prowess',
+    [ EFFECT.NEXT_ROUND_ON_ME ]: 'effect-gamma-ray-ray',
+    [ EFFECT.MASTERFUL_COMBAT ]: 'effect-prowess',
+    [ EFFECT.ARM_WRESTLING_CLUB ]: 'effect-attack',
+    [ EFFECT.PAWN_SET_FREE ]: 'effect-cybernetics-tactics',
+    [ EFFECT.INCREDIBLE_SUBSTITUTE ]: 'effect-friend-from-work',
+    [ EFFECT.I_REQUIRE_THY_SHIELD ]: 'effect-armor-break',
 };
 
 function effectIcon(uid) {

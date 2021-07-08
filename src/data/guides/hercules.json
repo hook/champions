@@ -1,0 +1,29 @@
+{
+    "description": "Born in Ancient Greece, Hercules is a demigod born to Zeus – the king of Olympian Gods – and Alcmena, a woman of Thebes. As an infant Hercules was cared for by his stepmother Hera, Queen of the Olympian Gods, and bestowed with her blessings. These blessings further elevated his demigod physiology to near Godlike heights, providing him with immense strength, stamina, immortality, and near invulnerability.",
+    "gameplay": {
+        "description": "Always Active\n- Blessings bestowed from the Goddess Hera protect against physical injury, reducing the potency of incoming Bleed effects by 50%.\n- A strong resilience to conventional drugs and toxins reduces the potency of incoming Poison effects by 15% and makes the recovery reduction from Poison 20% less effective.\nFeats of Strength – Passive – Max Stacks 12 \n- Feats:\n1. Strike a non-stunned Opponent with any hit of a Heavy Attack.\n2. Intercept a dashing Opponent with any attack.\n3. Stand up after being knocked down.\n- Completing a feat grants 1 indefinite Strength, each increasing Armor Penetration by 182.61 and causing all attacks to deal a burst of Physical Damage equal to 10% of the damage they dealt.\n- The first time each unique feat is completed in a fight, gain +1 Persistent Strength for the rest of the quest, allowing Hercules to start each fight with Strength equal to his Persistent Strength.\n- For 2 second(s) after completing a feat, Hercules gains +777 Attack Rating and +50% Buff duration. If a Special Attack is activated during this time, the bonus remains throughout the Special Attack.\n- While Hercules has Strength he becomes Stun Immune. Each Stun prevented by this immunity removes 1 Strength.\nDashing back after landing the first Light or Medium hit in a Combo\n- Inflict a non-stacking Infuriate Debuff for 7 seconds, making the Opponent more aggressive and reducing their Offensive Ability Accuracy by 60%. Cooldown 10 seconds.\n- While fighting as a Defender the duration of Infuriate is increased to 10 seconds and it is triggered whenever Hercules dashes back."
+    },
+    "specials": {
+        "1": {
+            "description": "On Activation gain a True Sense Buff, bypassing the effects of Miss and Auto Block for 16 seconds.\nThe first hit grants a Precision Buff increasing Critical Rating by +2100 for 25 seconds. If this attack was used to intercept a dashing Opponent gain +2 additional Precisions.",
+            "name": "Master of Pankration"
+        },
+        "2": {
+            "description": "The Potency of Burst Damage dealt via Strength during this attack is increased by 50% for each Armor-Up effect on the Opponent, up to a maximum increase of 200%.\nThe first hit grants a Cruelty Buff increasing Critical Damage Rating by +1233.33 for 15 seconds. If this attack was used to intercept a dashing Opponent gain +2 additional Cruelties.\nThe final hit has a 100% chance to inflict a 3 second Stun Debuff.",
+            "name": "Mace Cyclone"
+        },
+        "3": {
+            "description": "Gain an Indestructible Buff preventing all damage for 4 seconds.\nAfter this attack, if the Opponent has 3 Bars of Power Hercules gains a Power Gain Buff, granting 100% of a Power Bar over 3 seconds.",
+            "name": "Home Run"
+        }
+    },
+    "signature": {
+        "name": "Son of Zeus",
+        "description": "Always Active\n- Once per fight when receiving damage that would result in a knockout, gain an Immortality Buff preventing death and making Hercules Unblockable for 9.00 seconds. Immortality is paused during personal Special Attacks or while landing Basic Attacks and is removed if struck by Special Attack 3.\n- For 2 second(s) after completing a feat, gain 35% Combat Power Rate."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-hercules/"
+    }
+}

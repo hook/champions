@@ -1,32 +1,29 @@
 {
     "description": "An unrivaled alchemist and a member of Spanish nobility, Esteban Corazon de Ablo uses his arcane concoctions to lengthen his life, incinerate his foes and more. Driven by an unending desire to become as powerful as a god, Diablo now finds himself in the Contest hoping to secure the ISO-Sphere for his continued experimentation. Ambition pushes the Spanish nobleman to acquire power at all costs, and very few heroes can, or will, stand in his way.",
     "gameplay": {
-        "description": "Self Experimentation \nDiablo takes 35% reduced damage from Poison effects and gains +20% Power Rate and +450 Attack while Poisoned.  \n\n\nAlchemy \nA master alchemist, Diablo begins each Quest with a selection of Concoctions ready to be brewed. Throwing Light Attacks allows Diablo to switch which Concoction to brew. By finishing a combo with a Medium attack, Diablo begins brewing the selected Concoction.\nOnce the Concoction has Brewed for 3 seconds, Diablo may dash back and hold block for 1.2 seconds to drink it. A new Concoction can’t be brewed until the first is consumed.\nIf Diablo drinks a Concoction while the matching Concoction effect is still active, he instead Poisons himself, dealing 731 direct damage over 8 seconds and reducing healing effects by 30%.\nDeveloper Note: This self inflicted Poison doesn’t account for Diablo’s natural poison resistance. The actual damage dealt will be reduced by 35% (roughly 475 instead).\n\nEmberboon Concoction – 4 Available each Quest \nFor 12 seconds, attacks deal a burst of additional Energy Damage equal to 55% of the damage dealt plus an additional 20% for each Buff the opponent has.\n\n\nCounterflow Concoction – 4 Available each Quest \nGain 110% of a bar of Power over 12 seconds and allow basic attacks a 25% chance to Nullify for that duration.\n\n\nLifestitch Concoction – 4 Available each Quest \nRecover 848 Health when consumed and increases Regeneration rate by 25% for 12 seconds.\n\n\nIronskin Concoction – 4 Available each Quest  \nGain +957 attack and Stun Immunity for 12 seconds."
+        "description": "Always Active\n- Diablo’s alchemical self-experimentation grants the following:\n- +525 Energy Resistance.\n- Incoming Poison effects suffer -100% Potency.\n- Basic Attacks deal Energy Damage instead of Physical.\nMaster Alchemist – Pre-Fight Ability\n- In the Pre-Fight Menu, Diablo can add up to 3 Alchemical Ingredients to his Philosopher’s Mix Passive for the fight. He has unlimited Ingredients but can only add 1 of each type to a fight.\n- Each unused ingredient type is converted into 2 indefinite Vials of Might during the fight, which grant +131.34 Attack Rating & +10% Poison Potency. Max Stacks: 8.\nPhilosopher’s Mix – Launch a Special Attack\n- Philosopher’s Mix lasts 8 seconds per level of Special Attack used and heals Diablo 113.4 health every second. It also gains effects based on which Ingredients were added in the Pre-Fight Menu.\n- Distilled Will: Incoming Energy Damage causes Diablo to Passively Heal 70% of the damage taken.\n- Essence of Null: Every 2 seconds, 100% chance to Nullify 1 Buff on the opponent.\n- Grain of Uru: Gain Immunity to Stun effects & Armor Break Debuffs.\nPersonal Poison Debuffs – Max Stacks: 20\n- Unless otherwise stated, Diablo’s Poison Debuffs inflict 1488.52 direct damage over 14 seconds and reduce healing effects by 30%.\n- Heavy Attack: Each hit has 100% chance to inflict a Poison Debuff.\n- Medium Attack 2: 75% chance to inflict a Poison Debuff."
     },
     "specials": {
         "1": {
-            "description": "Double-Edged Elixir – Splashing the opponent with a scalding elixir, Diablo creates enough space to drink the remainder to heal his wounds.",
-            "note": "After the attack Diablo starts drinking an elixir, recovering up to 848 Health based on how long he continues to drink. If he has a Concoction brewed, Diablo drinks it after the attack."
+            "name": "Double-Edged Elixir",
+            "description": "After the attack, Diablo will drink from his flask. If he drinks for 1.5 seconds, he gains a Regeneration Passive, recovering 1984.5 Health over 4 seconds. If his drink is interrupted, he gains a Vial of Might and Pauses all Poison effects on the opponent for 10 seconds."
         },
         "2": {
-            "description": "Whelming Surge – A special mixture spawns a wave of arcane energy to engulf Diablo’s foe.",
-            "note": "This attack is Unblockable. This attack deals +50% Energy Damage for each Concoction and Poison effect active on Diablo."
+            "name": "Whelming Surge",
+            "description": "First hit Reapplies all personal Poison effects on the opponent.\nThis attack is Unblockable and deals a burst of 1094.5 Energy Damage. This burst of damage increases by +20% for each Buff & Poison that has activated on the opponent during the fight. Max Bonus: +500%."
         },
         "3": {
-            "description": "Epic Experimentation – Experimentation yields power, as Diablo quaffs an unknown set of elixirs then lets fly with a barrage of arcane might.",
-            "note": "If he has a Concoction brewed, Diablo drinks it during this attack and gains a permanent effect based on the Concoction consumed. Emberboon or Ironskin: +168 Attack for Energy-based attacks. Counterflow or Lifestitch: +10% Regeneration rate.\nDeveloper Note: The permanent effects lasts until end of the fight and can be seen in the pause screen."
+            "name": "Epic Experimentation",
+            "description": "This attack can only be used once per fight.\nThis attack gains +1094.5 Attack rating. It also gains effects based on which Ingredients have been added to the Philosopher’s Mix.\nDistilled Will: Gain a Regeneration Passive, healing 2835 Health over 4 seconds.\nEssence of Null: Places 10 Detonate Buffs on the opponent, which last 20 seconds and deal a burst of 437.8 Energy Damage when they expire or are Nullified.\nGrain of Uru: Philosopher’s Mix is Paused for 10 seconds.\nFor each Vial of Might: 100% chance to inflict 2 Poison Debuff(s)."
         }
     },
     "signature": {
-        "description": "Arcane Innovation\n\nExperimentation has enhanced Diablo’s Concoctions, decreasing their Brewing time by 1 second and increasing their duration by 40%."
+        "name": "Toxic Experimentation",
+        "description": "Always Active – Poison Effects\n- While Poisoned, Diablo takes 30% reduced damage from all sources.\n- While the opponent is Poisoned, Diablo gains +547.26 Attack Rating."
     },
     "author": {
         "name": "Kabam",
         "type": "spotlight",
         "profile": "https://playcontestofchampions.com/champion-spotlight-diablo/"
-    },
-    "youtube": "IgI_wG0o9uk",
-    "attack": {
-        "heavy": "Diablo destroys his Brewed Concoction to inflict Poison, dealing 1520 direct damage over 10 seconds and reducing Healing effects by 30%."
     }
 }

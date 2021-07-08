@@ -16,6 +16,7 @@ export const GROOT = 'groot';
 export const GROOTKING = 'grootking';
 export const HEIMDALL = 'heimdall';
 export const HELA = 'hela';
+export const HERCULES = 'hercules';
 export const HYPERION = 'hyperion';
 export const KAMALAKHAN = 'kamalakhan';
 export const MEDUSA = 'medusa';
@@ -176,6 +177,7 @@ export const VOID = 'void';
 export const WASP = 'wasp';
 export const YELLOWJACKET = 'yellowjacket';
 // Mystic
+export const AMERICACHAVEZ = 'americachavez';
 export const BLACKWIDOWCLAIRE = 'blackwidowclaire';
 export const DIABLO = 'diablo';
 export const DORMAMMU = 'dormammu';

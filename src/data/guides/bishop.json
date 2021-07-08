@@ -1,27 +1,25 @@
 {
     "description": "The Mutant known as Bishop was born into a bleak alternate future in which the robot Sentinels wiped out most of the X-Men, and Mutants were branded with an “M” over their right eye for identification. After chasing a criminal through a time portal with no means to return to his own timeline, Bishop joined the X-Men.",
-    "youtube": "MkZ9ZaXAcEI",
     "gameplay": {
-        "description": "Persistent Power Meter\n\nBishop’s mastery over energy and time enables him to enter a fight with 100% of the Power he finished his previous fight in the same Quest with.\n\nEnergy Transference Passive\n\n+3882 Energy Resistance at all times.\nEnergy Attacks against Bishop generate 70% more Power plus 1 stack of Prowess.\nEnergy Damage abilities against Bishop have up to a 40% chance with each tick to generate 2% Power plus 1 stack of Prowess. No effect against the abilities of Tech Champions.\nAbsorb the kinetic energy of a well-timed Block to generate 5% Power plus 3 stacks of Prowess. Prowess gained in this way is doubled against Skill Champions and tripled against Energy-based Special Attacks. No effect against the attacks of Tech Champions.\n\nBlocking\n\nSteadily consume Prowess to Regenerate 97 Health per Prowess consumed.\nEach Prowess consumed has a 100% chance to Purify 1 Bleed Debuff(s).\nConsumption starts after a brief delay of holding block, and steadily pulls off 1 Prowess at a time to Regenerate and, if applicable, remove 1 Bleed Debuff.\n\nSpecial Attacks\n\nConsume all Prowess and gain +10% Special Damage per stack consumed.\n\nWarning: Power Overload!\n\n81 Health per second is lost for each Prowess above a stack of 30.\nIf Bishop stays at full Power for more than 9 seconds, he begins to overload and lose 97 Health per second until that Power is spent. The longer he stays at full Power, the more Health is lost.\nActivate any Special Attack to expel stored energy and avoid unnecessary damage!",
-        "note": "If you exit a fight with two bars, you’ll start the next fight with two bars; however, don’t hoard your Power for too long, as Bishop will start losing Health if he waits too long before spending Power. More information on how Bishop overloads can be found below."
+        "description": "Persistent Power Meter\n- Bishop’s mastery over energy and time enables him to enter a fight with 100% of the Power he finished his previous fight in the same Quest with.\n- Bishop’s Special Attacks cost no Power when activated. Instead, after the Special ends, Bishop immediately loses however many Bars of Power that special would have cost\nAlways Active – Personal Prowess\n- All of Bishop’s Personal Passive Prowess effects increase Special Attack Damage by 10%.\nAlways Active – Energy Transference\n- +4076.47 Energy Resistance.\n- Every 1 second(s), on receiving any Energy Damage gain 3 Passive Prowess.\n- Absorbing the kinetic energy of Blocking or being Struck generates 1 stack of Prowess, Well Time Blocks gain an additional +6 Prowess.\n- All these abilities grant +2 Prowess vs Skill Opponents, and -1 vs Tech.\nBlocking\n- Holding Block for 0.5 seconds, Bishop converts 1 Personal Prowess into a Regeneration Buff every 0.33 seconds, granting 186.67 Health over 5 seconds. Max Stacks: 5.\n- Each Prowess converted also has an 100% chance to Purify a Bleed Debuff.\nAlways Active – Debuff Feedback\n- Each time the Opponent Purifies a Debuff they instantly receive 1902.57 Energy Damage.\n- Skill Champions also receive a Passive Stun lasting 1.50 second(s) if the Debuff Purified was a Stun.\nWarning: Power Overload!\n- While Bishop has more than 30 Prowess, or if he’s Bleeding, he Overloads and begins consuming his personal Prowess effects 1 at a time, getting faster the longer he’s been Overloading.\n- If Bishop is suffering from a Bleed, Shock, or Incinerate, Debuff or Passive, each time he consumes a Prowess this way he also deals 476 Energy Damage to his Opponent, scaling with Base Attack.\nSpecial Attacks\n- After each Special Attack Bishop consumes all his Personal Prowess Passives.\n- If Bishop is Overloading go Unblockable for the Duration of the Special Attack."
     },
     "specials": {
         "1": {
-            "description": "Steady Release – A twin gun assault where Bishop unloads frequent energy bursts.",
-            "note": "Up to 40% of this Energy Damage penetrates the enemy Block. Up to 80% of Basic Attack damage is replaced with bursts of Energy Damage for 15 seconds, allowing Bishop to mitigate Armor and abilities that reflect attack damage. This bonus Energy Damage increases by 6% for each Prowess consumed by Special 1."
+            "name": "Steady Release",
+            "description": "After this Special Attack finishes, gain a Steady Release Passive for 10 seconds.\nWhile active every 0.75 second(s) while near the opponent, inflict an Incinerate Debuff on them, dealing 773.5 Energy Damage over 3 seconds.\nEach Prowess consumed by this attack increases the Duration of Steady Release by 2.5%."
         },
         "2": {
-            "description": "Burst Release – Bishop’s stored energy is amplified and then released in a single burst.",
-            "note": "+50% damage if activated within the first 12 seconds of a fight."
+            "name": "Burst Release",
+            "description": "The last hit has a 100% chance to inflict an Incinerate Debuff lasting 10 seconds, and dealing 70% of the total damage dealt by this Special."
         },
         "3": {
-            "description": "Diffusion Wave – As Bishop approaches his limit, he unleashes all stored energy at once in every direction.",
-            "note": "+30% damage against enemies above 85% Health or below 15% Health. This increases to +70% damage against enemies at full Health"
+            "name": "Diffusion Wave",
+            "description": "100% chance to inflict a non-stacking Energy Vulnerability reducing Energy Resistance by 1274.04 for 20 seconds.\nAgainst enemies at full Health, this Energy Vulnerability becomes indefinite."
         }
     },
     "signature": {
-        "description": "Foresight – Gain a unique bonus based on how many bars of Power are full at the start of the fight.",
-        "note": "Bishop prepares a unique bonus based on how many bars of Power are full at the start of the fight. With 0 Bars: Special Attacks become Unblockable with a stack of 10.01 or more Prowess. With 1 Bar: While Blocking, gain Stun Immunity and enemies lose 80% ability accuracy. With 2 Bars: Special Attacks leave the target Incinerated for 40% of the Special Damage Dealt over 5 seconds. With 3 Bars: Start the fight with Steady Release active for 15 seconds."
+        "name": "Foresight",
+        "description": "Passive\nBishop prepares a unique bonus based on how many bars of Power are full at the start of the fight that last for the remainder of the fight.\n- With 0 Bars: Special Attacks become Unblockable with a stack of 10 or more Prowess.\n- With 1 Bar: While Blocking, gain Stun Immunity and enemies lose 80% ability accuracy.\n- With 2 Bars: Special Attacks have a 100% chance to leave the target Incinerated for 70% of the Special damage over 10 seconds.\n- With 3 Bars: Start the fight with Steady Release active for 15 seconds."
     },
     "author": {
         "name": "Kabam",

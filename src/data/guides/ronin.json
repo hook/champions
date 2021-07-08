@@ -2,25 +2,29 @@
     "description": "Following the events of Avengers: Infinity War, Clint Barton is drawn out of retirement to don a new alter ego, Ronin -- A lawless assassin with a piercing sword and incredible fighting skills who mercilessly brings criminals to justice around the world.",
     "youtube": "4_tA6mqoZ-Y",
     "gameplay": {
-        "description": "PASSIVE\n- When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 247.19. Max 7 stacks.    \n\n\nSWORD ATTACKS\n- Attacks using the Sword have a 15% chance to inflict Bleed dealing 413.7 Direct Damage over 7 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.\n- Intercepting attacks has +666.67 Critical Rating.\nAgainst Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed.   \n\n\nSTANCE PREPARATION\n- Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.\n- Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.\n- When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 247.19. Max 7 stacks.\n\n\nWHEN ENTERING A STANCE\n- When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3714.29 for 15 seconds.\n\n\nGUARD STANCE\n- Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is projectile based. Ronin gains +35% chance to Perfect Block.\n- Entering this stance has a 100% chance to Purify a Debuff.\n\n\nWRAITH STANCE\n- All attacks reduce Defensive Ability Accuracy by 40%.\n\n\nDEMON STANCE\n- All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
+        "description": "PASSIVE\n- When Ronin would Miss an Attack or be Evaded he gains a Cruelty Passive increasing Critical Damage by 259.55. Max 7 stacks.    \n\n\nSWORD ATTACKS\n- Attacks using the Sword have a 15% chance to inflict Bleed dealing 829.15 Direct Damage over 3.5 seconds. Critical Strikes using the Sword have a 100% to inflict Bleed.\n- Intercepting attacks has +1400 Critical Rating.\nAgainst Bleed Immune Champions gain a Cruelty Passive when Ronin would inflict a Bleed. This cannot occur more than once every 2.5 second(s).   \n\n\nSTANCE PREPARATION\n- Ronin prepares his Stances by performing light attacks. Light 1 prepares Guard Stance, Light 2 prepares Wraith Stance, and Light 3 prepares Demon Stance.\n- Dodging back after preparing a stance makes Ronin enter a Stance. Stances are not affected by Ability Accuracy Reduction.\n- When entering a new Stance, gain a Cruelty Passive increasing Critical Damage by 259.55. Max 7 stacks.\n\n\nWHEN ENTERING A STANCE\n- When reaching 7 Cruelty Passives, gain a Precision Passive increasing Critical Rating by 3900 for 18 seconds.\n\n\nGUARD STANCE\n- Well Timed Blocks activate the Parry Mastery, stunning opponents even if their attack is projectile based. Ronin gains +35% chance to Perfect Block.\n- Entering this stance has a 100% chance to Purify a Debuff.\n\n\nWRAITH STANCE\n- All attacks reduce Defensive Ability Accuracy by 40%.\n\n\nDEMON STANCE\n- All Bleeds gain +75% Ability Accuracy and can be inflicted on Blocked hits."
     },
     "specials": {
         "1": {
-            "description": "Ambush from the Mists\n- A surprise smoke bomb throw allows an opening for a swift somersault and sword strike combination.\n- Disorients the opponent reducing Defensive Ability Accuracy by 40% and Block Proficiency by 50% for 8 seconds.\n- Enters a prepared Stance.",
+            "name": "Ambush from the Mists",
+            "description": "- Disorients the opponent reducing Defensive Ability Accuracy by 60% and Block Proficiency by 50% for 9 seconds.\n- Enters a prepared Stance.",
             "note": "Disorienting your opponent while in Wraith Stance can be an effective strategy in shutting down Champions that rely on defensive abilities."
         },
         "2": {
-            "description": "Split the River\n- A deadly throwing star creates space for a high-flying acrobatic cutting maneuver.\n- Inflicts a Bleed that deals 413.7 Direct Damage over 7 seconds for each active Cruelty Passive.\n- Removes all Cruelty Passives.",
+            "name": "Split the River",
+            "description": "- Inflicts a Bleed that deals 829.15 Direct Damage over 3.5 seconds for each active Cruelty Passive.\n- Removes all Cruelty Passives.",
             "note": "Ronin deals large amounts of damage over time with this attack, and can place up to as many Bleeds on the opponent as he has Cruelty Passives. Pair this with Demon Stance and Bleeds can be inflicted even when the opponent is Blocking."
         },
         "3": {
-            "description": "Marksman’s Revenge\n- Utilizing his sword and bow, Ronin splits an arrow on his blade for a special two-for-one assault.\n- Gain a Fury Passive increasing Attack Rating by 236.4 for 35 seconds. Each active Cruelty Passive increases the Attack Rating by an additional 236.4.\n- Removes all Cruelty Passives.",
+            "name": "Marksman's Revenge",
+            "description": "- Gain a Fury Passive increasing Attack Rating by 615.94 for 35 seconds. Each active Cruelty Passive increases the Attack Rating by an additional 615.94.\n- Removes all Cruelty Passives.",
             "note": "Pairing the Attack Rating increase in this attack with Demon Stance is the easiest way to add a significant chunk of damage to Ronin’s Combos. If players take the time to build up another set of Cruelty Passives through Stance switching while this Fury is active, regular Combos become extremely deadly."
         }
     },
     "signature": {
-        "description": "Unrelenting Agility - When Attacked \n- While at 7 Cruelty Passives, Ronin gains Evasion on the next incoming hit for 1.50 seconds. Removes all Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.\n- When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 236.17 for 7 seconds.",
-        "note": "This Evade comes in handy against Special Attacks that are difficult to avoid. Players can also strategically decide not to activate this Evade by Blocking attacks or using the Dexterity Mastery."
+        "name": "Unrelenting Agility",
+        "description": "When Attacked \n- While at 7 Cruelty Passives, Ronin gains Evasion on the next incoming hit for 2.00 seconds. Removes 3 Cruelty Passives when Ronin Evades an attack. Successful Evades do not grant Stance Abilities.\n- When Ronin Evades an attack, gain a Fury Passive increasing Attack Rating by 473.81 for 12 seconds.",
+        "note": "This Evade comes in handy against Special Attacks that are difficult to avoid. Players can also strategically decide not to activate this Evade by Blocking attacks or using the Dexterity Mastery. If players are feeling lucky, they can intentionally set off this evade to gain a temporary Attack Rating boost."
     },
     "author": {
         "name": "Kabam",

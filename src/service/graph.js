@@ -479,6 +479,16 @@ const EFFECT_COLORS = {
     [ EFFECT.CHAOS_RISING ]: '#ebe6b8',
     [ EFFECT.TILL_INFINITY_DO_US_PART ]: '#bb88f1',
     [ EFFECT.DEMONIC_PACT ]: '#152a69',
+    [ EFFECT.SUPER_STARS ]: '#f913fb',
+    [ EFFECT.OUT_OF_THIS_WORLD ]: '#38c658',
+    [ EFFECT.STAY_POSITIVE ]: '#21184f',
+    [ EFFECT.KO_QUEENS ]: '#00bdeb',
+    [ EFFECT.NEXT_ROUND_ON_ME ]: '#16a50a',
+    [ EFFECT.MASTERFUL_COMBAT ]: '#ad9da8',
+    [ EFFECT.ARM_WRESTLING_CLUB ]: '#97b49a',
+    [ EFFECT.PAWN_SET_FREE ]: '#1677be',
+    [ EFFECT.INCREDIBLE_SUBSTITUTE ]: '#17271c',
+    [ EFFECT.I_REQUIRE_THY_SHIELD ]: '#624519',
 };
 
 function getTypeColor(typeId) {

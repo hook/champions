@@ -1,0 +1,32 @@
+{
+    "description": "America Chavez was born in an alternate dimension outside of time and space, the Utopian Parallel. Being a Dimension in close proximity to the Demiurge, America Chavez absorbed powerful mystical energies which granted her the ability to willfully travel through alternate Dimensions. ",
+    "gameplay": {
+        "description": "Parallel Dimensions:\n- Each hit of a Heavy Attack switches the dormant Dimension in the order they appear below. \n- Launching a Special Attack during a Heavy Attack, or if the Heavy Attack ends for any reason, activate the Dimension for 30 seconds. \n- Utopian Parallel: Reduce Opponents’ Fury, Armor Up, Precision, and Cruelty Buff Potency by 70%.\n- Dark Dimension: Deal 40% of damage taken back as Energy Damage. Damage is capped at 4389.6\n- Negative Zone: Reduce Opponents’ Ability Power Gain Rate by 60%. \n- Matching Dimensions suffer –20% Duration for each stack. \n- Whenever affected by a Wither Debuff, remove the most recently activated Parallel Dimension.\n- While Defending a Quest Node, if activating a Dimension that already has 2 active stacks, she activates 1 random unopened Dimension as well.\nDimensional Energy Infusion – Max 9\n- For each unique Dimension on America Chavez and each Buff on the Opponent, gain the following benefits:\n- +584.88 Attack Rating. \n- +286.36 Energy Resistance."
+    },
+    "specials": {
+        "1": {
+            "description": "Each unique Parallel Dimension creates a Passive Power Gain effect providing 40% of a bar of Power over 1.5 seconds.",
+            "name": "Power Stomp"
+        },
+        "2": {
+            "description": "For the final 3 hits of this Special Attack, America Chavez opens a Portal to an additional Big Bang Dimension dealing a burst of Energy Damage equal to 50% of hit damage dealt.\nThese hits gain a bonus effect based on the last Dimension activated:\n- Utopian Parallel: Deal 1949.6 additional damage on Hit.\n- Dark Dimension: Regenerate 12% of hit damage dealt.\n- Negative Zone: Unblockable.",
+            "name": "Star Burst"
+        },
+        "3": {
+            "description": "Activate 1 of each Parallel Dimension. ",
+            "name": "Dimensional Dash"
+        }
+    },
+    "signature": {
+        "name": "Super Charged",
+        "description": "If at least 3 unique Dimensions are active, America Chavez becomes Supercharged, granting the following bonuses:\n- +50% Dimensional Energy Infusion potency.\n- Launching a Special 2 during a Heavy Attack provides +1 stack of whichever Dimension was activated."
+    },
+    "attack": {
+        "heavy": "Charge a Heavy Attack after landing any non combo ending hit of a Basic Attack combo to inflict a Passive Stun for 0.75 seconds. Heavy Attacks launched this way generate 25% less Power on Hit."
+    },
+    "author": {
+        "name": "Kabam",
+        "type": "spotlight",
+        "profile": "https://playcontestofchampions.com/champion-spotlight-america-chavez/"
+    }
+}
