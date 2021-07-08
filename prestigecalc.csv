@@ -1,0 +1,212 @@
+PID,CID,UID,TYPE,1,2,3,4,5,6
+ABOMINATIONIMMORTAL,ABOMINATIONIMMORTAL,abominationimmortal,science,false,true,true,true,true,true
+AIRWALKER,AIRWALKER,airwalker,cosmic,false,true,true,true,true,true
+AMERICACHAVEZ,AMERICACHAVEZ,americachavez,mystic,false,true,true,true,true,true
+APOCALYPSE,APOCALYPSE,apocalypse,mutant,false,true,true,true,true,true
+Abomination,ABOMINATION,abomination,science,false,true,true,true,true,true
+Aegon,AEGON,aegon,skill,false,true,true,true,true,true
+Agent Venom,AGENTVENOM,agentvenom,skill,false,true,true,true,true,true
+Angela,ANGELA,angela,cosmic,false,true,true,true,true,true
+Annihilus,ANNIHILUS,annihilus,cosmic,false,true,true,true,true,true
+Ant-Man,ANTMAN,antman,science,false,true,true,true,true,true
+Archangel,ARCHANGEL,archangel,mutant,false,true,true,true,true,true
+BLACKWIDOWCLAIRE,BLACKWIDOWCLAIRE,blackwidowclaire,mystic,false,true,true,true,true,true
+BLACKWIDOWDEADLY,BLACKWIDOWDEADLY,blackwidowdeadly,skill,false,true,true,true,true,true
+Beast,BEAST,beast,mutant,false,true,true,true,true,true
+Bishop,BISHOP,bishop,mutant,false,true,true,true,true,true
+Black Bolt,BLACKBOLT,blackbolt,cosmic,false,true,true,true,true,true
+Black Panther (Civil War),BLACKPANTHERCIVILWAR,blackpanthercivilwar,skill,false,true,true,true,true,true
+Black Panther,BLACKPANTHER,blackpanther,skill,true,true,true,true,true,true
+Black Widow,BLACKWIDOW,blackwidow,skill,false,true,true,true,true,true
+Blade,BLADE,blade,skill,false,true,true,true,true
+COSMICGHOSTRIDER,COSMICGHOSTRIDER,cosmicghostrider,cosmic,false,true,true,true,true,true
+Cable,CABLE,cable,mutant,false,true,true,true,true,true
+Captain America (Infinity War),CAPTAINAMERICAIW,capamericaiw,science,false,true,true,true,true,true
+Captain America (WWII),CAPTAINAMERICAWWII,captainamericawwii,science,false,true,true,true,true,true
+Captain America,CAPTAINAMERICA,captainamerica,science,false,true,true,true,true,true
+Captain Marvel (Theatrical),CAPTAINMARVELMOVIE,captainmarvelmovie,cosmic,false,true,true,true,true,true
+Captain Marvel,CAPTAINMARVEL,captainmarvel,cosmic,false,true,true,true,true,true
+Carnage,CARNAGE,carnage,cosmic,false,true,true,true,true,true
+Civil Warrior,CIVILWARRIOR,civilwarrior,tech,false,true,true,true,true,true
+Colossus,COLOSSUS,colossus,mutant,true,true,true,true,true,true
+Corvus Glave,CORVUSGLAIVE,corvusglaive,cosmic,false,true,true,true,true,true
+Crossbones,CROSSBONES,crossbones,skill,false,true,true,true,true,true
+Cull Obsidian,CULLOBSIDIAN,cullobsidian,cosmic,false,true,true,true,true,true
+Cyclops (Blue Team),CYCLOPS90S,cyclops90s,mutant,false,true,true,true,true,true
+Cyclops (New X School),CYCLOPS,cyclops,mutant,false,true,true,true,true,true
+DRAGONMAN,DRAGONMAN,dragonman,mystic,false,true,true,true,true,true
+DRDOOM,DRDOOM,drdoom,mystic,false,true,true,true,true,true
+Daredevil (*Netflix*),DAREDEVILNETFLIX,daredevilnetflix,skill,false,true,true,true,true,true
+Daredevil (Classic),DAREDEVIL,daredevil,skill,false,true,true,true,true,true
+Dark Hawk,DARKHAWK,darkhawk,tech,false,true,true,true,true,true
+Dark Phoenix,DARKPHOENIX,darkphoenix,cosmic,false,false,false,false,true
+Deadpool (X-Force),DEADPOOLXFORCE,deadpoolxforce,mutant,false,true,true,true,true,true
+Deadpool,DEADPOOL,deadpool,mutant,true,true,true,true,false
+Diablo,DIABLO,diablo,mystic,false,true,true,true,true,true
+Domino,DOMINO,domino,mutant,false,true,true,true,true,true
+Dormammu,DORMAMMU,dormammu,mystic,false,true,true,true,true,true
+Dr. Octopus,DROCTOPUS,docock,tech,false,true,true,true,true,true
+Dr. Strange,DRSTRANGE,drstrange,mystic,false,true,true,true,true,true
+Dr. Voodoo,DRVOODOO,brothervoodoo,mystic,false,true,true,true,true,true
+Drax,DRAX,drax,cosmic,false,true,true,true,true,true
+ELSABLOODSTONE,ELSABLOODSTONE,elsabloodstone,skill,false,true,true,true,true,true
+Ebony Maw,EBONYMAW,ebonymaw,mystic,false,true,true,true,true,true
+Electro,ELECTRO,electro,science,false,true,true,true,true,true
+Elektra,ELEKTRA,elektra,skill,false,true,true,true,true,true
+Emma Frost,EMMAFROST,emmafrost,mutant,false,true,true,true,true,true
+Falcon,FALCON,falcon,skill,false,true,true,true,true,true
+GRANDMASTER,GRANDMASTER,grandmaster,universal,false,false,false,false,true
+GUARDIAN,GUARDIAN,guardian,tech,false,true,true,true,true,true
+GUILLOTINE2099,GUILLOTINE2099,guillotine2099,tech,false,true,true,true,true,true
+Gambit,GAMBIT,gambit,mutant,false,true,true,true,true,true
+Gamora,GAMORA,gamora,cosmic,true,true,true,true,true,true
+Ghost,GHOST,ghost,tech,false,true,true,true,true,true
+Ghostrider,GHOSTRIDER,ghostrider,mystic,false,true,true,true,true
+Goldpool,GOLDPOOL,goldpool,mutant,false,false,false,false,true,true
+Green Goblin,GREENGOBLIN,greengoblin,tech,false,true,true,true,true,true
+Groot,GROOT,groot,cosmic,false,true,true,true,true,true
+Guillotine,GUILLOTINE,guillotine,mystic,false,true,true,true,true,true
+Gwenpool,GWENPOOL,gwenpool,skill,false,true,true,true,true,true
+HERCULES,HERCULES,hercules,cosmic,false,true,true,true,true,true
+HITMONKEY,HITMONKEY,hitmonkey,skill,false,true,true,true,true,true
+HULKIMMORTAL,HULKIMMORTAL,hulkimmortal,science,false,true,true,true,true,true
+Havok,HAVOK,havok,mutant,false,true,true,true,true,true
+Hawkeye,HAWKEYE,hawkeye,skill,true,true,true,true,true,true
+Heimdall,HEIMDALL,heimdall,cosmic,false,true,true,true,true,true
+Hela,HELA,hela,cosmic,false,true,true,true,true,true
+Howard the Duck,HOWARDTHEDUCK,howardtheduck,tech,false,true,true,true,true,true
+Hulk (Ragnarok),HULKRAGNAROK,hulkragnarok,science,false,true,true,true,true,true
+Hulk,HULK,hulk,science,true,true,true,true,true,true
+Hulkbuster,HULKBUSTER,hulkbuster,tech,false,true,true,true,true,true
+Human Torch,HUMANTORCH,humantorch,science,false,true,true,true,true,true
+Hyperion,HYPERION,hyperion,cosmic,false,true,true,true,true
+Iceman,ICEMAN,iceman,mutant,false,true,true,true,true,true
+Invisible Woman,INVISIBLEWOMAN,invisiblewoman,science,false,true,true,true,true,true
+Iron Fist (Immortal),IRONFISTWHITE,ironfistwhite,mystic,false,false,true,true,true,true
+Iron Fist,IRONFIST,ironfist,mystic,false,true,true,true,true,true
+Iron Man (Infinity War),IRONMANIW,ironmaniw,tech,false,true,true,true,true,true
+Iron Man,IRONMAN,ironman,tech,true,true,true,true,true,true
+Iron Patriot,IRONPATRIOT,ironpatriot,tech,false,true,true,true,true,true
+JABARIPANTHER,JABARIPANTHER,jabaripanther,skill,false,true,true,true,true,true
+JUBILEE,JUBILEE,jubilee,mutant,false,true,true,true,true,true
+Joe Fixit,JOEFIXIT,joefixit,science,false,true,true,true,true,true
+Juggernaut,JUGGERNAUT,juggernaut,mystic,true,true,true,true,true,true
+Kang,KANG,kang,tech,false,false,false,true,true,true
+Karnak,KARNAK,karnak,skill,false,true,true,true,true,true
+Killmonger,KILLMONGER,killmonger,skill,false,true,true,true,true,true
+King Groot,GROOTKING,grootking,cosmic,false,true,true,true,true,true
+Kingpin,KINGPIN,kingpin,skill,false,true,true,true,true,true
+Korg,KORG,korg,skill,false,true,true,true,true,true
+LONGSHOT,LONGSHOT,longshot,mystic,false,true,true,true,true,true
+Loki,LOKI,loki,mystic,false,true,true,true,true,true
+Luke Cage,LUKECAGE,lukecage,science,false,true,true,true,true,true
+M.O.D.O.K.,MODOK,modok,science,false,true,true,true,true,true
+MANGOG,MANGOG,mangog,mystic,false,true,true,true,true,true
+MANTHING,MANTHING,manthing,mystic,false,true,true,true,true,true
+MISTERNEGATIVE,MISTERNEGATIVE,misternegative,science,false,true,true,true,true,true
+MOJO,MOJO,mojo,mystic,false,true,true,true,true,true
+MOLEMAN,MOLEMAN,moleman,skill,false,true,true,true,true,true
+MYSTERIO,MYSTERIO,mysterio,tech,false,true,true,true,true,true
+Magik,MAGIK,magik,mystic,false,true,true,true,true
+Magneto (Marvel Now),MAGNETOMARVELNOW,magnetomarvelnow,mutant,false,true,true,true,true,true
+Magneto,MAGNETO,magneto,mutant,false,true,true,true,true,true
+Masacre,MASACRE,masacre,skill,false,true,true,true,true,true
+Medusa,MEDUSA,medusa,cosmic,false,true,true,true,true,true
+Mephisto,MEPHISTO,mephisto,mystic,false,true,true,true,true,true
+Mister Sinister,MISTERSINISTER,mistersinister,mutant,false,true,true,true,true,true
+Moon Knight,MOONKNIGHT,moonknight,skill,false,true,true,true,true,true
+Mordo,KARLMORDO,karlmordo,mystic,false,true,true,true,true,true
+Morningstar,MORNINGSTAR,morningstar,mystic,false,true,true,true,true,true
+Mr. Fantastic,MRFANTASTIC,mrfantastic,science,false,true,true,true,true,true
+Ms. Marvel (Danvers),MSMARVEL,msmarvel,cosmic,false,true,true,true,true,true
+Ms. Marvel (Khan),KAMALAKHAN,kamalakhan,cosmic,false,true,true,true,true,true
+NOVA,NOVA,nova,cosmic,false,true,true,true,true,true
+Namor,NAMOR,namor,mutant,false,true,true,true,true,true
+Nebula,NEBULA,nebula,tech,false,true,true,true,true,true
+Nick Fury,NICKFURY,nickfury,skill,false,true,true,true,true,true
+Night Thrasher,NIGHTTHRASHER,nightthrasher,skill,false,true,true,true,true,true
+Nightcrawler,NIGHTCRAWLER,nightcrawler,mutant,false,true,true,true,true,true
+ODIN,ODIN,odin,cosmic,false,true,true,true,true,true
+Old Man Logan,WOLVERINEOLDMAN,wolverineoldman,mutant,false,true,true,true,true,true
+Omega Red,OMEGARED,omegared,mutant,false,true,true,true,true,true
+PLATINUMPOOL,PLATINUMPOOL,platinumpool,mutant,false,false,false,false,true,true
+PROFESSORX,PROFESSORX,professorx,mutant,false,true,true,true,true,true
+PSYCHOMAN,PSYCHOMAN,psychoman,tech,false,true,true,true,true,true
+PURGATORY,PURGATORY,purgatory,mystic,false,true,true,true,true,true
+Phoenix,PHOENIX,phoenix,cosmic,false,true,true,true,true,true
+Proxima Midnight,PROXIMAMIDNIGHT,proximamidnight,cosmic,false,true,true,true,true,true
+Psylocke (X-Force),PSYLOCKEXFORCE,psylockexforce,mutant,false,true,true,true,true,true
+Punisher 2099,PUNISHER2099,punisher2099,tech,false,true,true,true,true,true
+Punisher,PUNISHER,punisher,skill,false,true,true,true,true,true
+Quake,QUAKE,quake,science,false,true,true,true,true
+REDGOBLIN,REDGOBLIN,redgoblin,cosmic,false,true,true,true,true,true
+REDGUARDIAN,REDGUARDIAN,redguardian,science,false,true,true,true,true,true
+Red Hulk,REDHULK,redhulk,science,false,true,true,true,true,true
+Red Skull,REDSKULL,redskull,tech,false,true,true,true,true,true
+Rhino,RHINO,rhino,science,false,true,true,true,true,true
+Rocket Raccoon,ROCKET,rocket,tech,false,true,true,true,true,true
+Rogue,ROGUE,rogue,mutant,false,true,true,true,true,true
+Ronan,RONAN,ronan,cosmic,false,true,true,true,true,true
+Ronin,RONIN,ronin,skill,false,true,true,true,true,true
+SASQUATCH,SASQUATCH,sasquatch,mystic,false,true,true,true,true,true
+SCARLETWITCHSIGIL,SCARLETWITCHSIGIL,scarletwitchsigil,mystic,false,false,false,true,true,true
+SHANGCHI,SHANGCHI,shangchi,skill,false,true,true,true,true,true
+SILVERCENTURION,SILVERCENTURION,silvercenturion,tech,false,true,true,true,true,true
+SILVERSURFER,SILVERSURFER,silversurfer,cosmic,false,true,true,true,true,true
+SORCERERSUPREME,SORCERERSUPREME,sorcerersupreme,mystic,false,true,true,true,true,true
+SPIDERHAM,SPIDERHAM,spiderham,science,false,true,true,true,true,true
+SPIDERMANSTEALTH,SPIDERMANSTEALTH,spidermanstealth,skill,false,true,true,true,true,true
+SQUIRRELGIRL,SQUIRRELGIRL,squirrelgirl,skill,false,true,true,true,true,true
+STORMPYRAMIDX,STORMPYRAMIDX,stormpyramidx,mutant,false,true,true,true,true,true
+STRYFE,STRYFE,stryfe,mutant,false,true,true,true,true,true
+SUNSPOT,SUNSPOT,sunspot,mutant,false,true,true,true,true,true
+SUPERSKRULL,SUPERSKRULL,superskrull,cosmic,false,true,true,true,true,true
+Sabretooth,SABRETOOTH,sabretooth,mutant,false,true,true,true,true,true
+Scarlet Witch,SCARLETWITCH,scarletwitch,mystic,true,true,true,true,true
+Sentinel,SENTINEL,sentinel,tech,false,true,true,true,true,true
+Sentry,SENTRY,sentry,science,false,true,true,true,true,true
+She-Hulk,SHEHULK,shehulk,science,false,true,true,true,true,true
+Spider-Gwen,SPIDERGWEN,spidergwen,science,false,true,true,true,true,true
+Spider-Man (Classic),SPIDERMAN,spiderman,science,true,true,true,true,true,true
+Spider-Man (Morales),SPIDERMANMORALES,spidermanmorales,science,false,true,true,true,true,true
+Spider-Man (Stark Enh.),SPIDERMANSTARK,spidermanmovie,tech,false,true,true,true,true
+Spider-Man (Symbiote),SPIDERMANBLACK,spidermanblack,cosmic,false,true,true,true,true,true
+Star-Lord,STARLORD,starlord,tech,false,true,true,true,true,true
+Storm,STORM,storm,mutant,false,true,true,true,true,true
+Superior Iron Man,SUPERIORIRONMAN,superiorironman,cosmic,false,true,true,true,true,true
+Symbiote Supreme,SYMBIOTESUPREME,symbiotesupreme,mystic,false,true,true,true,true,true
+TERRAX,TERRAX,terrax,cosmic,false,true,true,true,true,true
+THEOVERSEER,THEOVERSEER,theoverseer,science,false,true,true,true,true,true
+TIGRA,TIGRA,tigra,mystic,false,true,true,true,true,true
+Taskmaster,TASKMASTER,taskmaster,skill,false,true,true,true,true,true
+Thanos,THANOS,thanos,cosmic,false,false,false,true,true,true
+The Champion,THECHAMPION,thechampion,cosmic,false,true,true,true,true,true
+The Collector,THECOLLECTOR,collector,universal,false,false,false,false,true
+The Hood,HOOD,hood,mystic,false,true,true,true,true,true
+Thing,THING,thing,science,false,true,true,true,true,true
+Thor (Jane Foster),THORJANEFOSTER,thorjanefoster,mystic,false,true,true,true,true,true
+Thor (Ragnarok),THORRAGNAROK,thorragnarok,skill,false,true,true,true,true,true
+Thor,THOR,thor,cosmic,false,true,true,true,true,true
+Ultron (Age/Ultron),ULTRON,ultron,tech,false,true,true,true,true,true
+Ultron (Classic),ULTRONCLASSIC,ultronclassic,tech,false,false,false,false,true
+Unstoppable Colossus,UNSTOPPABLECOLOSSUS,unstoppablecolossus,mystic,false,true,true,true,true,true
+VISIONAARKUS,VISIONAARKUS,visionaarkus,cosmic,false,true,true,true,true,true
+Venom the Duck,VENOMDUCK,venomduck,cosmic,false,true,true,true,true,true
+Venom,VENOM,venom,cosmic,false,true,true,true,true,true
+Venompool,VENOMPOOL,venompool,cosmic,false,true,true,true,true,true
+Vision (Age/Ultron),THEVISION,thevision,tech,true,true,true,true,true,true
+Vision,VISION,vision,tech,true,true,true,true,true,true
+Void,VOID,void,science,false,true,true,true,true,true
+Vulture,VULTURE,vulture,tech,false,true,true,true,true,true
+WARLOCK,WARLOCK,warlock,tech,false,true,true,true,true,true
+War Machine,WARMACHINE,warmachine,tech,false,true,true,true,true,true
+Wasp,WASP,wasp,science,false,true,true,true,true,true
+Weapon X,WEAPONX,weaponx,mutant,false,false,false,false,true,true
+Winter Soldier,WINTERSOLDIER,wintersoldier,skill,false,true,true,true,true,true
+Wolverine,WOLVERINE,wolverine,mutant,true,true,true,true,true
+X-23,X23,x23,mutant,false,true,true,true,true,true
+Yellowjacket,YELLOWJACKET,yellowjacket,science,false,true,true,true,true,true
+Yondu,YONDU,yondu,tech,false,true,true,true,true,true
+zz-UNPLAYABLE - Dr. Strange (Marvel Now),DRSTRANGEMARVELNOW,drstrangemarvelnow,none,false,false,false,false,false
+zz-UNPLAYABLE - Maestro,MAESTRO,maestro,universal,false,false,false,false,true
+zz-UNPLAYABLE - Scarlet Witch (Ultimate),SCARLETWITCHULTIMATE,scarletwitchultimate,none,false,false,false,false,false
